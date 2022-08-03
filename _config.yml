@@ -21,7 +21,6 @@
 title: Canada Club Berne
 email: bernecanadaclub@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Canada Club Berne is friendly group of Canadians, Canadian-Swiss and Swiss-Canadians whoorganize various events throughout the year.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
