@@ -1,2 +1,3 @@
 # canadaclub.github.io
-Canada Club Berne website
+
+Repo for the test [Canada Club Berne website](https://canadaclub.github.io/) on github pages.
