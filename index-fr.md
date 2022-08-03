@@ -5,9 +5,7 @@
 layout: home
 ---
 
-![logo](images/canadaclubbernelogo-small.jpg)
-
-[![logo](images/maple-leaf-english-small.jpg)]({{ site.baseurl }}{% link index.md %})
+![logo](images/canadaclubbernelogo-small.jpg) [![logo](images/maple-leaf-english-small.jpg)]({{ site.baseurl }}{% link index.md %})
 
 # Qui nous sommes
 
