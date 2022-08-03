@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![logo](images/canadaclubbernelogo-small.jpg) [![logo](images/maple-leaf-french-small.jpg)]({{ site.baseurl }}{% link index-fr.md %})
+![logo](images/canadaclubbernelogo-small.jpg) ![blank](images/blank.jpg) [![logo](images/maple-leaf-french-small.jpg)]({{ site.baseurl }}{% link index-fr.md %})
 
 # About us
 
@@ -24,7 +24,3 @@ Here's an interesting guide to Bern, created by students at the University of Be
 
 Click [here](https://www.bne.unibe.ch/for_students/out_and_about_sustainably_in_bern/index_eng.html) to access the PDF
 
-#Testing
-
-
-![logo](images/canadaclubbernelogo-small.jpg) [![logo](images/maple-leaf-french-small.jpg)]({{ site.baseurl }}{% link index-fr.md %})
