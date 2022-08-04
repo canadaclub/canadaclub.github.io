@@ -3,7 +3,7 @@ title: Liens
 layout: page-fr
 ---
 
-L'ambassade du Canada, Berne<br/>
+## L'ambassade du Canada, Berne
 Kirchenfeldstrasse 88<br/>
 CH-3005 Berne, Switzerland<br/>
 Tel: +41 (0)31 357 3200<br/>
@@ -27,3 +27,19 @@ Tel: +41 (0)31 357 3200<br/>
 - E[xpatica.com](http://www.expatica.com/ch/lifestyle_leisure/lifestyle/Expat-groups-in-Bern.html)
 - [L'association des Québecois(es) en Suisse](http://www.toileaqs.com/)
 - [Hello Switzerland](http://www.helloswitzerland.ch/) — site d'informations sur la Suisse
+
+## Sites d'actualités canadiens
+- [CBC](https://cbc.ca)
+- [Vancouver Sun](https://vancouversun.com)
+- [Edmonton Journal](https://edmontonjournal.com/)
+- [Regina Leader-Post](https://leaderpost.com/)
+- [The Free Press Winnipeg](https://www.winnipegfreepress.com/)
+- [Toronto Star](https://www.thestar.com/)
+- [Journal de Québec](https://www.journaldequebec.com/)
+- [Fredericton](https://www.fredericton.ca/en/news)
+- [Halifax](https://www.halifaxexaminer.ca/)
+- [Charlottetown](https://www.discovercharlottetown.com/media/)
+- [Newfoundland/Labrador](https://theindependent.ca/)
+- [Yukon News](https://www.yukon-news.com/)
+- [NNSL MEDIA Yellowknifer](https://www.nnsl.com/yellowknifer/)
+- [Nunatsiaq News](https://nunatsiaq.com/)
