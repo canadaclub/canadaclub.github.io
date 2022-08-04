@@ -1,8 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: home-fr
 ---
 
 ![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-english.jpg)]({{ site.baseurl }}{% link index.md %})

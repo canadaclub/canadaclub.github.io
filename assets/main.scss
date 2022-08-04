@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
-h1, h2, h3 {
+.wrapper{
+  max-width: calc(1000px - (30px * 2));
+}
+
+a, h1, h2, h3 {
+  color: red;
+}
+
+.site-nav .page-link {
   color: red;
 }
