@@ -17,3 +17,4 @@ Les événements du club sont répertoriés ici. S'il existe des documentations 
 - Assemblée générale annuelle
 - Brunch Semaines Canada, 27 mars
 - Soirée bowling, 1 avril
+- Pique-nique traditionnel pour célébrer la fête du Canada, 3 juillet
