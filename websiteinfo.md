@@ -3,6 +3,9 @@ title: About Our Website
 layout: page
 ---
 
+![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-french.jpg)]({{ site.baseurl }}{% link websiteinfo-fr.md %})
+
+## Intellectual property
 This website belongs to Canada Club Berne.
 
 No texts, pictures or graphics may be used by third parties without our prior written consent, which can be obtained by contacting us at [info@canadaclub.ch](mailto:info@canadaclub.ch). 

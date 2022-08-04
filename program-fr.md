@@ -3,6 +3,8 @@ title: Programme annuel 2022
 layout: page-fr
 ---
 
+![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-english.jpg)]({{ site.baseurl }}{% link program.md %})
+
 |Date|Événement|
 |---|---||
 |20 février|assemblée générale annuelle|
