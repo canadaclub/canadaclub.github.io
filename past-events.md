@@ -17,3 +17,4 @@ Club events are listed here. Should there be any documentation (photos, descript
 - Annual General Meeting, February 20th
 - Canada Weeks Brunch, March 27th
 - Bowling Evening, April 1st
+- Canada Day Picnic, July 3rd
