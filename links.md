@@ -3,7 +3,7 @@ title: Links
 layout: page
 ---
 
-![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-french.jpg)]({{ site.baseurl }}{% link links-fr.md %})
+![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-french.jpg)](links-fr)
 
 ## Canadian Embassy, Berne
 Kirchenfeldstrasse 88<br/>

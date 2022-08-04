@@ -3,7 +3,7 @@ title: Annual Program 2022
 layout: page
 ---
 
-![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-french.jpg)]({{ site.baseurl }}{% link program-fr.md %})
+![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-french.jpg)](program-fr)
 
 |Date | Event|
 |---|---|

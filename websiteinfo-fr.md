@@ -3,7 +3,7 @@ title: Mentions légales
 layout: page-fr
 ---
 
-![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-english.jpg)]({{ site.baseurl }}{% link websiteinfo.md %})
+![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-english.jpg)](websiteinfo)
 
 ## Propriété
 Ce site appartient au Canada Club Berne.

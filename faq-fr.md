@@ -3,7 +3,7 @@ title: Questions fréquentes
 layout: page-fr
 ---
 
-![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-english.jpg)]({{ site.baseurl }}{% link faq.md %})
+![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-english.jpg)](faq)
 
 ## Comment devenir membre?
 Contactez-nous à [info@canadaclub.ch](mailto:info@canadaclub.ch) et vous recevrez l’information nécessaire.

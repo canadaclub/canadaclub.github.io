@@ -3,7 +3,7 @@ title: About Our Website
 layout: page
 ---
 
-![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-french.jpg)]({{ site.baseurl }}{% link websiteinfo-fr.md %})
+![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-french.jpg)](websiteinfo-fr)
 
 ## Intellectual property
 This website belongs to Canada Club Berne.

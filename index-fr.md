@@ -3,7 +3,7 @@ title: Canada Club Berne
 layout: home-fr
 ---
 
-![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-english.jpg)]({{ site.baseurl }}{% link index.md %})
+![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-english.jpg)](index)
 
 # Qui nous sommes
 
