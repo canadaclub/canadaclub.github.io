@@ -5,7 +5,6 @@ layout: home
 ![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-french.jpg)]({{ site.baseurl }}{% link index-fr.md %})
 
 # About us
-# And not the least about you, because if you have clicked onto this page, you must be a true-north, frozen-butt Canuck.
 
 We are a group of Canadians, Canadian-Swiss and Swiss-Canadians who are organized as Canada Club Berne, which was founded in 1981 and has been going ever since.
 We promote relaxed social contacts, Canadian style, among our members. Activities that might be organized by Club members during the year include a Canada Day picnic, Ascension Day biking or hiking, Christmas dinner, snowshoeing,  hiking, etc. Our events usually take place in the greater Bern region, though winter sports usually happen in higher, more snow-endowed areas.
