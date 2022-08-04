@@ -1,4 +1,5 @@
 ---
+title: Canada Club Berne
 layout: home-fr
 ---
 
@@ -10,13 +11,9 @@ Le Club Canada de Berne a été fondé par des Canadiens et des Suisses ayant un
 
 Les nouveaux membres sont les bienvenus. Donc n'hésitez pas à nous contacter sous [info@canadaclub.ch](mailto:info@canadaclub.ch).
 
+Nous avons une présence  facebook close pour nos membres. Pour plus d’informations contactez nous sous [info@canadaclub.ch](mailto:info@canadaclub.ch).
+
 # Prochain Événement
 
 randonnée à pied, 3 septembre 2022
-
-# Nouveau à Berne ?
-
-Voici un guide intéressant sur Berne, créé par des étudiants de l'Université de Berne. Il peut être utile aux nouveaux arrivants dans la région ainsi qu'à tous ceux qui cherchent à vivre de manière plus durable à Berne et dans ses environs.
-
-Cliquez [ici](https://www.bne.unibe.ch/for_students/out_and_about_sustainably_in_bern/index_eng.html) pour accéder au PDF (en anglais).
 

@@ -1,8 +1,8 @@
 ---
 title: Past Events
-layout: default
+layout: page
 ---
-# Past Events
+
 Club events are listed here. Should there be any documentation (photos, descriptions), they are made available to members for download from our cloud space.
 
 ## 2021

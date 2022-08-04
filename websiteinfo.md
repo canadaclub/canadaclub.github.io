@@ -1,9 +1,7 @@
 ---
 title: About Our Website
-layout: default
+layout: page
 ---
-
-# About Our Website
 
 This website belongs to Canada Club Berne.
 

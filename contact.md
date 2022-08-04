@@ -1,9 +1,7 @@
 ---
 title: Contact
-layout: default
+layout: page
 ---
-
-# Contact
 
 Please contact us through our e-mail address: [info@canadaclub.ch](mailto:info@canadaclub.ch)
 

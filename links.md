@@ -1,9 +1,7 @@
 ---
 title: Links
-layout: default
+layout: page
 ---
-
-#  Links
 
 ## Canadian Embassy, Berne
 Kirchenfeldstrasse 88<br/>

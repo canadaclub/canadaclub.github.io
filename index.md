@@ -1,4 +1,5 @@
 ---
+title: Canada Club Berne
 layout: home
 ---
 
