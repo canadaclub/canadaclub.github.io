@@ -14,8 +14,3 @@ Les informations contenues sur ce site sont fournies sans aucune garantie. Les t
 ## Protection des données
 
 Nous ne collectons pas de données avec des cookies, mais notre site Web est enregistré auprès de Google; Google peut enregistrer votre adresse IP et suivre votre comportement en ligne. Avec Google Analytics, nous pouvons simplement rechercher le nombre de visiteurs de notre site Web au cours d'une période donnée.
-
-
-Ce site Web a été conçu par [HelperDave.ch](https://helperdave.ch).
-
-Dave Thibault [helperdave@quickline.ch](nailto:helperdave@quickline.ch).
