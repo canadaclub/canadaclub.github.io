@@ -7,4 +7,4 @@ This [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-wi
 Only the overrides of templates and css are in the includes, layouts and assets folders.
 
 Updates to the markdown are automatically propagated using Jekyll to the running website.
-Note that [](https://canadaclub.github.io/) is served by the custom domain [](https://canadaclub.ch).
+Note that the github pages site [https://canadaclub.github.io](https://canadaclub.github.io) is served by the custom domain [https://canadaclub.ch](https://canadaclub.ch).
