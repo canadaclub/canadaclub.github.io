@@ -26,7 +26,7 @@ Tel: +41 (0)31 357 3200<br/>
 - [Upstage](http://upstage.ch/) — pour du théâtre de qualité en anglais à Berne
 - [Museum Cerny](https://museumcerny.ch/) — Cerny Inuit Collection
 - [1,2,3...chanson](http://123chanson.ch/) — festival annuel à Berthoud Festival
-- E[xpatica.com](http://www.expatica.com/ch/lifestyle_leisure/lifestyle/Expat-groups-in-Bern.html)
+- [Expatica.com](http://www.expatica.com/ch/lifestyle_leisure/lifestyle/Expat-groups-in-Bern.html)
 - [L'association des Québecois(es) en Suisse](http://www.toileaqs.com/)
 - [Hello Switzerland](http://www.helloswitzerland.ch/) — site d'informations sur la Suisse
 
