@@ -24,40 +24,19 @@ This will let you edit and change pages.
 ---
 ## Editing pages
 
-To edit pages, you just need to find the source file on the server, edit it, and commit your changes.
+To edit a page, just click on the “edit” icon, modify the text, and commit your changes.
 
-### 1. Find the source file
+### 1. Edit the file
 
-If you need to change a page, say the [home page](https://canadaclub.ch), you will need to find the source file on the [project page](https://github.com/canadaclub/canadaclub.github.io).
+At the bottom of each page atthe far right there is a “pencil” icon that will allow you edit the page.
 
-There is also a link at the bottom of each web page to the Canada Club github page.
+![edit link](images/instructions-edit-link.jpg)
 
-![github link](images/instructions-github-link.jpg)
-
-Follow it, and then select the “canadaclub.github.io” project:
-
-![project link](images/instructions-project-link.jpg)
-
-
-You will see a list of files in the project.
-The ones that interest you all end in “.md” (for “markdown”).
-For each web page there is an English file and a French one.
-In this case you want to edit “index.md” — just click on it to open it.
-
-![page link](images/instructions-page-link.jpg)
-
-### 2. Edit the file
-
-Just click on the “pencil” icon to edit the page.
-
-![edit icon](images/instructions-edit-icon.jpg)
-
-Now you can edit the page directly in the web browser!
-
+Just click on the icon to edit the page directly in the web browser.
 
 ![edit page](images/instructions-edit-page.jpg)
 
-### 3. Commit your changes
+### 2. Commit your changes
 
 When you're done, go to the bottom of the page, write a short description of the change you made, and click on the “Commit changes” button.
 
