@@ -1,9 +1,7 @@
 ---
 title: Canada Club Berne
-layout: home-fr
+layout: page-fr
 ---
-
-![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-english.jpg)](index)
 
 # Qui nous sommes
 

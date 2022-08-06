@@ -1,7 +1,9 @@
 ---
 title: Instructions for updating this website
-layout: page
+layout: default
 ---
+
+# Instructions for updating this website
 
 ---
 ## Getting started

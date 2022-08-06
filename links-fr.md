@@ -3,8 +3,6 @@ title: Liens
 layout: page-fr
 ---
 
-![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-english.jpg)](links)
-
 ## L'ambassade du Canada, Berne
 Kirchenfeldstrasse 88<br/>
 CH-3005 Berne, Switzerland<br/>

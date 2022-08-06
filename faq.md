@@ -3,8 +3,6 @@ title: FAQ
 layout: page
 ---
 
-![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-french.jpg)](faq-fr)
-
 ## How do I join?
 It's easy to join, just e-mail us at [info@canadaclub.ch](mailto:info@canadaclub.ch) and we will reply with the necessary information.
 

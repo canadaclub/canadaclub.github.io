@@ -21,7 +21,6 @@ a:visited {
   color: red;
 }
 
-
 .page-heading {
   font-size: 48px;
   letter-spacing: -1px;
@@ -31,6 +30,24 @@ a:visited {
 .site-header {
   border-top: none;
   border-bottom: none;
+}
+
+.head-nav {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  margin: 10px 0px;
+}
+
+.head-nav-left {
+  float: left;
+  margin-left: 5px;
+}
+
+.head-nav-right {
+text-align: right;
+  float: right;
+  margin-right: 10px;
 }
 
 .footer-col {

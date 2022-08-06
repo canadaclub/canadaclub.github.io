@@ -3,8 +3,6 @@ title: Past Events
 layout: page
 ---
 
-![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-french.jpg)](past-events-fr)
-
 Club events are listed here. Should there be any documentation (photos, descriptions), they are made available to members for download from our cloud space.
 
 ## 2021

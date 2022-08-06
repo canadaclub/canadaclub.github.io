@@ -3,8 +3,6 @@ title: Contact
 layout: page
 ---
 
-![logo](images/canadaclubbernelogo.jpg) [![logo](images/maple-leaf-french.jpg)](contact-fr)
-
 Please contact us through our e-mail address: [info@canadaclub.ch](mailto:info@canadaclub.ch)
 
 We will answer as soon as possible.

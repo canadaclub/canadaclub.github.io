@@ -2,13 +2,14 @@
 layout: default-fr
 ---
 <article class="post">
-
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
-
   <div class="post-content">
+    <div class="head-nav">
+      <span class="head-nav-left"><img src="/images/CanadaClubBerneLogo-2d.jpg" alt="logo" width="2000px" max-width="50%" height="auto"></span>
+      <span class="head-nav-right"><a href="{{ page.name | remove: "-fr.md" }}"><img src="/images/Maple-Leaf-English.jpg" alt="logo" width="25%" height="auto"></a></span>
+    </div>
     {{ content }}
   </div>
-
 </article>
