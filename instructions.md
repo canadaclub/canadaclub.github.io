@@ -30,14 +30,19 @@ To edit pages, you just need to find the source file on the server, edit it, and
 
 If you need to change a page, say the [home page](https://canadaclub.ch), you will need to find the source file on the [project page](https://github.com/canadaclub/canadaclub.github.io).
 
-The link is at the bottom of each web page:
+There is also a link at the bottom of each web page to the Canada Club github page.
+
+![github link](images/instructions-github-link.jpg)
+
+Follow it, and then select the “canadaclub.github.io” project:
 
 ![project link](images/instructions-project-link.jpg)
 
+
 You will see a list of files in the project.
 The ones that interest you all end in “.md” (for “markdown”).
-For each web page there is an english file and a french one.
-In this case you want to edit “index.md” — just click on it to open it.
+For each web page there is an English file and a French one.
+In this case you want to edit “index.md” — just click on it to open it.
 
 ![page link](images/instructions-page-link.jpg)
 
