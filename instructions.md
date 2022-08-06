@@ -28,7 +28,7 @@ To edit a page, just click on the “edit” icon, modify the text, and commit y
 
 ### 1. Edit the file
 
-At the bottom of each page atthe far right there is a “pencil” icon that will allow you edit the page.
+At the bottom of each page at the far right there is a “pencil” icon that will allow you edit the page.
 
 ![edit link](images/instructions-edit-link.jpg)
 
