@@ -32,3 +32,19 @@ a:visited {
   border-top: none;
   border-bottom: none;
 }
+
+.footer-col {
+  width: 100%; 
+}
+
+.footer-left {
+  display: block;
+  float: left;
+  margin-left: 5px;
+}
+
+.footer-right {
+  display: block;
+  float: right;
+  margin-right: 10px;
+}
