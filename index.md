@@ -3,6 +3,11 @@ title: Canada Club Berne
 layout: page
 ---
 
+# News
+
+We have migrated our website to github pages to make it easier to update the content, and we have changed our email address to {{ site.mailto }}.
+*Please update your address book!*
+
 # About us
 
 We are a group of Canadians, Canadian-Swiss and Swiss-Canadians who are organized as Canada Club Berne, which was founded in 1981 and has been going ever since.
