@@ -3,9 +3,10 @@ title: Events
 layout: page
 ---
 
-Club events are listed here. Should there be any documentation (photos, descriptions), they are made available to members for download from our cloud space.
+Club events are listed here. 
+Should there be any documentation (photos, descriptions), they will be made available to members for download from our cloud space.
 
-Non-members are welcome to come out and take part in an event and meet some of the Club members prior to deciding whether to join the Club. 
+Non-members are welcome to come and take part in an event and meet some of the Club members prior to deciding whether to join the Club. 
 However, you will have to contact us at {{ site.mailto }} for the event details.
 
 ## Upcoming events
@@ -15,7 +16,8 @@ However, you will have to contact us at {{ site.mailto }} for the event details.
 - December 10: Annual Christmas Dinner
 - January 22: Annual General Meeting: 
 
-Activities can be added at any time if you have an idea. Put it on FB and let the Exec know to inform members by email.
+Activities can be added at any time if you have an idea. 
+Put it on FB and let the Exec know to inform members by email.
 Occasionally the Embassy informs us of events.
 
 ---
