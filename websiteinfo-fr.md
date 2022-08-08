@@ -6,7 +6,7 @@ layout: page-fr
 ## Propriété
 Ce site appartient au Canada Club Berne.
 
-Aucun texte, image ou graphique ne peut être utilisé par des tiers sans notre accord écrit préalable, qui peut être obtenu en nous contactant à [{{ site.email }}](mailto:{{ site.email }}). 
+Aucun texte, image ou graphique ne peut être utilisé par des tiers sans notre accord écrit préalable, qui peut être obtenu en nous contactant à {{ site.mailto }}. 
 Les informations contenues sur ce site sont fournies sans aucune garantie. Les textes, images et graphiques appartenant à des tiers que nous fournissons restent la propriété de leurs propriétaires respectifs; nous déclinons toute responsabilité quant à leur validité ou leur exactitude.
 
 ## Protection des données

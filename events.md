@@ -6,7 +6,7 @@ layout: page
 Club events are listed here. Should there be any documentation (photos, descriptions), they are made available to members for download from our cloud space.
 
 Non-members are welcome to come out and take part in an event and meet some of the Club members prior to deciding whether to join the Club. 
-However, you will have to contact us at [{{ site.email }}](mailto:{{ site.email }}) for the event details.
+However, you will have to contact us at {{ site.mailto }} for the event details.
 
 ## Upcoming events
 

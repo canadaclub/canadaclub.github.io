@@ -3,10 +3,10 @@ title: Contact
 layout: page
 ---
 
-Please contact us through our e-mail address: [{{ site.email }}](mailto:{{ site.email }})
+Please contact us through our e-mail address: {{ site.mailto }}
 
 ## How do I join?
-It's easy to join, just e-mail us at [{{ site.email }}](mailto:{{ site.email }}) and we will reply with the necessary information.
+It's easy to join, just e-mail us at {{ site.mailto }} and we will reply with the necessary information.
 
 ## When can I join?
 Our memberships run from January to December each year with memberships due by 1st March. Newcomers begin paying membership dues as of the January after they join the Club.
