@@ -6,7 +6,7 @@ layout: page
 ## Intellectual property
 This website belongs to Canada Club Berne.
 
-No texts, pictures or graphics may be used by third parties without our prior written consent, which can be obtained by contacting us at [info@canadaclub.ch](mailto:info@canadaclub.ch). 
+No texts, pictures or graphics may be used by third parties without our prior written consent, which can be obtained by contacting us at [{{ site.email }}](mailto:{{ site.email }}). 
 The information contained on this website is provided without any guarantees or warranties whatsoever. 
 Texts, pictures and graphics belonging to others that we provide remain the property of their respective owners; we take no responsibility for their validity or accuracy.
 

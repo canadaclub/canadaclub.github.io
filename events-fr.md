@@ -3,8 +3,10 @@ title: Événement
 layout: page-fr
 ---
 
-
 Les événements du club sont répertoriés ici. S'il existe des documentations (photos, descriptifs), elles sont mises à disposition des membres en téléchargement depuis notre espace cloud.
+
+Les non–membres sont les bienvenus aux évènements avant de décider de devenir membres au Club. Pour recevoir les Détails, il faut nous contacter par email à {{ site.email }}.
+Les membres sont libres d'inviter des amis et de la famille en visite en Suisse.
 
 ## Événements à venir
 
