@@ -8,7 +8,7 @@ Les événements du club sont répertoriés ici. S'il existe des documentations 
 Les non–membres sont les bienvenus aux évènements avant de décider de devenir membres au Club. Pour recevoir les Détails, il faut nous contacter par email à {{ site.email }}.
 Les membres sont libres d'inviter des amis et de la famille en visite en Suisse.
 
-Vous pouvez également trouver des informations sur les événements à venir sur [notre page de groupe Facebook] (https://www.facebook.com/groups/canadaclubberne/).
+Vous pouvez également trouver des informations sur les événements à venir sur notre [page de groupe Facebook](https://www.facebook.com/groups/canadaclubberne/).
 
 ## Événements à venir
 
