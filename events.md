@@ -9,6 +9,8 @@ Should there be any documentation (photos, descriptions), they will be made avai
 Non-members are welcome to come and take part in an event and meet some of the Club members prior to deciding whether to join the Club. 
 However, you will have to contact us at {{ site.mailto }} for the event details.
 
+You can also find information about upcoming events on [our Facebook group page](https://www.facebook.com/groups/canadaclubberne/).
+
 ## Upcoming events
 
 - September 3: Hike
