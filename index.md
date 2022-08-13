@@ -18,7 +18,8 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next event
 
-Hike, September 3, 2022
+Hike Kandersteg area, September 3, 2022
+Details have been emailed
 
 # New to Bern?
 
