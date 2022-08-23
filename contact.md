@@ -20,7 +20,7 @@ Newcomers begin paying membership dues starting in January after they join the C
 For those who do e-banking, the Club account with PostFinance has this IBAN, which you can simply copy and paste into your banking app:
 CH1109000000300089042
 
-For those who do not do e-banking, download our [payment-slip-pdf](pdfs/ccbdues-qr.pdf) and use it to pay.
+For those who do not do e-banking, download our [payment slip pdf](pdfs/ccbdues-qr.pdf) and use it to pay.
 
 ![Parliament Buildings of Canada, Ottawa](images/parliament.jpg)
 
