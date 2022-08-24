@@ -20,7 +20,7 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 Hike Kandersteg area, September 3, 2022
 
-Details have been emailed
+Details have already been emailed.
 
 # New to Bern?
 
