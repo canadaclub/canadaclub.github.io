@@ -22,7 +22,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ---
 
-## Évènements passés
+## Événements passés
 
 ### 2022
 
