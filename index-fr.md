@@ -18,5 +18,4 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 Brunch 23 octobre
 
-Les détails ont été envoyés par couriel
 
