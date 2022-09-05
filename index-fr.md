@@ -16,7 +16,7 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochain Événement
 
-randonnée à pied dans la région Kandersteg, 3 septembre 2022.
+Brunch 23 octobre
 
 Les détails ont été envoyés par couriel
 
