@@ -18,7 +18,9 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next event
 
-an event is in development for October
+Brunch
+23 October
+
 
 # New to Bern?
 
