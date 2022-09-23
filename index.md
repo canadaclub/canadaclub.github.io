@@ -16,10 +16,10 @@ We promote relaxed social contacts, Canadian style, among our members. Activitie
 New members — temporary or long-term — are very welcome, so feel free to contact us at {{ site.mailto }} or join us on [Facebook](https://www.facebook.com/groups/canadaclubberne/).
 
 
-# Next event
+# Next events
 
-Brunch
-23 October
+Brunch 23 October 2022
+Annual Christmas Dinner 10 December 2022
 
 
 # New to Bern?
