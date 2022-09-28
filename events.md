@@ -13,7 +13,6 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events
 
-- September 3: Hike
 - October 23: Brunch
 - December 10: Annual Christmas Dinner
 - January 22: Annual General Meeting: 
@@ -27,6 +26,7 @@ Occasionally the Embassy informs us of events.
 
 ### 2022
 
+- September 3: Hike
 - July 3: Canada Day Picnic
 - June 12: Upstage Theater performance Trap for a Lonely Man
 - May 26: Biking day
