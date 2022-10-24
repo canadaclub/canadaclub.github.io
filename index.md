@@ -17,10 +17,9 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 
 # Next events
-
-Brunch 23 October 2022
-
 Annual Christmas Dinner 10 December 2022
+
+Annual General Meeting January 22, 2023
 
 
 # New to Bern?
