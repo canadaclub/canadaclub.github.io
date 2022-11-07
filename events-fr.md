@@ -25,7 +25,6 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 ### 2022
 
 - 23 octobre: brunch
-- 3 septembre: randonnée à pied
 - 3 juillet: pique-nique Canada Day
 - 12 juin: performance Upstage Theatre, date à communiquer
 - 26 mai: randonnée en vélo
