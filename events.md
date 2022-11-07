@@ -26,7 +26,6 @@ Occasionally the Embassy informs us of events.
 ### 2022
 
 - October 23: Brunch
-- September 3: Hike
 - July 3: Canada Day Picnic
 - June 12: Upstage Theater performance Trap for a Lonely Man
 - May 26: Biking day
