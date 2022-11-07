@@ -12,7 +12,6 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir
 
-- 23 octobre: brunch
 - 10 décembre: dîner annuel de Noêl
 - 22 janvier: Assemblée générale annuelle
 
@@ -25,6 +24,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ### 2022
 
+- 23 octobre: brunch
 - 3 septembre: randonnée à pied
 - 3 juillet: pique-nique Canada Day
 - 12 juin: performance Upstage Theatre, date à communiquer
