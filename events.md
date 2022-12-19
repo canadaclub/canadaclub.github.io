@@ -13,7 +13,6 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events
 
-- December 10: Annual Christmas Dinner
 - January 22: Annual General Meeting: 
 
 Activities can be added at any time if you have an idea. 
