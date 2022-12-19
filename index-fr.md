@@ -16,6 +16,6 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochain Événement
 
-Brunch 23 octobre
+Assemblée générale annuelle: le 22 janvier 2023
 
 
