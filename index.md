@@ -16,7 +16,7 @@ We promote relaxed social contacts, Canadian style, among our members. Activitie
 New members — temporary or long-term — are very welcome, so feel free to contact us at {{ site.mailto }} or join us on [Facebook](https://www.facebook.com/groups/canadaclubberne/).
 
 
-# Next events
+# Next event
 
 Annual General Meeting 22 January 2023
 
