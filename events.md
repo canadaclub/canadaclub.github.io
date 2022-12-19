@@ -25,6 +25,7 @@ Occasionally the Embassy informs us of events.
 
 ### 2022
 
+- December 10: Annual Christmas Dinner
 - October 23: Brunch
 - July 3: Canada Day Picnic
 - June 12: Upstage Theater performance Trap for a Lonely Man
