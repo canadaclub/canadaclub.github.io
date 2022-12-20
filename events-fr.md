@@ -12,7 +12,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir
 
-- 22 janvier: Assemblée générale annuelle
+- 22 janvier 2023: Assemblée générale annuelle
 
 Des activités peuvent être ajoutées à tout moment si vous avez une idée. Mettez-la sur FB et faites-le savoir à l'exécutif pour informer les membres par e-mail.
 Parfois, l'ambassade a des événements dont elle nous informe.
