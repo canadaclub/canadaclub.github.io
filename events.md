@@ -14,12 +14,13 @@ You can also find information about upcoming events on our [Facebook group page]
 ## Upcoming events for 2023
 
 - February 4th or 5th Snowshoeing Day
+- February 20th Lunch at Beaulieu Restaurant
 - March 7 Canada Weeks Dinner Get-together
 - March 31st or April 1st Bowling Evening
 - 4th June, 5p.m. Upstage performance at the Remise (Laupenstrasse)
 - May Bike Ride
 - July 1st or 2nd Canada Day Picnic
-- August 26th BBQ in Münsingen
+- August 26th Afternoon BBQ in Münsingen
 - September 16th or 17th Club Hike
 - October 22nd Club Brunch
 - November 19th 5 p.m. Upstage Performance
