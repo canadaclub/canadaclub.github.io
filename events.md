@@ -11,9 +11,20 @@ However, you will have to contact us at {{ site.mailto }} for the event details.
 
 You can also find information about upcoming events on our [Facebook group page](https://www.facebook.com/groups/canadaclubberne/).
 
-## Upcoming events
+## Upcoming events for 2023
 
-- January 22: Annual General Meeting: 
+- February 4th or 5th Snowshoeing Day
+- March 7 Canada Weeks Dinner Get-together
+- March 31st or April 1st Bowling Evening
+- 4th June, 5p.m. Upstage performance at the Remise (Laupenstrasse)
+- May Bike Ride
+- July 1st or 2nd Canada Day Picnic
+- August 26th BBQ in Münsingen
+- September 16th or 17th Club Hike
+- October 22nd Club Brunch
+- November 19th 5 p.m. Upstage Performance
+- December 9th Annual Christmas Dinner
+- January 2024 Annual General Meeting, date to follow
 
 Activities can be added at any time if you have an idea. 
 Put it on FB and let the Exec know to inform members by email.
@@ -32,11 +43,3 @@ Occasionally the Embassy informs us of events.
 - April 1: Bowling evening
 - March 27: Brunch Canada Week
 - February 20: Annual General Meeting
-
-### 2021
-
-- December 11: Christmas Dinner
-- October 31: Pancake Brunch
-- August 21: Summer BBQ
-- July 4: Canada Day Picnic
-
