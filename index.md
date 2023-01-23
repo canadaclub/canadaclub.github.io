@@ -16,9 +16,11 @@ We promote relaxed social contacts, Canadian style, among our members. Activitie
 New members — temporary or long-term — are very welcome, so feel free to contact us at {{ site.mailto }} or join us on [Facebook](https://www.facebook.com/groups/canadaclubberne/).
 
 
-# Next event
+# Next events
 
-Canada Weeks Get-together, 7th March
+Snowshoeing February 4th or 5th, alternate dated February 18th or 19th
+Lunch at Beaulieu Restaurant February 20th, 11:45
+Canada Weeks evening dinner at the Tramdepot, 7th March starting 18:00-18:30
 
 # New to Bern?
 
