@@ -18,8 +18,7 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next event
 
-Annual General Meeting 22 January 2023
-
+Canada Weeks Get-together, 7th March
 
 # New to Bern?
 
