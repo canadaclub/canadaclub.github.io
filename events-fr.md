@@ -11,31 +11,20 @@ Les membres sont libres d'inviter des amis et de la famille en visite en Suisse.
 Vous pouvez également trouver des informations sur les événements à venir sur notre [page de groupe Facebook](https://www.facebook.com/groups/canadaclubberne/).
 
 ## Événements à venir
-4 ou 5 février journée raquettes
 
-20 février déjeuner au Restaurant Beaulieu, Berne
-
-7 mars Dîner pendant les Semaines Canadiennes
-
-31 marsou 1 April soirée quilles
-
-4 juin, 17:00 soirée théâtre Upstage, Theater Remise, Laupenstrasse 51, Bern
-
-? mai balade à vélo
-
-1 ou 2 Juillet pique-nique Canada Day
-
-26 août BBQ d'été
-
-16 ou 17 septembre randonnée à pied
-
-22 octobre 22nd Brunch pour les membres
-
-19 novembre 17:00 performance Upstage
-
-9  décembre Dîner de Noël
-
-? janvier 2024 assemblée générale annuelle
+4 ou 5 février journée raquettes..
+20 février déjeuner au Restaurant Beaulieu, Berne..
+7 mars Dîner pendant les Semaines Canadiennes..
+31 marsou 1 April soirée quilles..
+4 juin, 17:00 soirée théâtre Upstage, Theater Remise, Laupenstrasse 51, Bern..
+? mai balade à vélo..
+1 ou 2 Juillet pique-nique Canada Day..
+26 août BBQ d'été..
+16 ou 17 septembre randonnée à pied..
+22 octobre 22nd Brunch pour les membres..
+19 novembre 17:00 performance Upstage..
+9  décembre Dîner de Noël..
+? janvier 2024 assemblée générale annuelle..
 
 
 
