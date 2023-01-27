@@ -14,7 +14,7 @@ Le Club Canada de Berne a été fondé par des Canadiens et des Suisses ayant un
 
 Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors n'hésitez pas à nous contacter à {{ site.mailto }} ou à nous rejoindre sur [Facebook](https://www.facebook.com/groups/canadaclubberne/).
 
-# Prochain Événement
+# Prochains Événements
 
 4 ou 5 février journée à raquettes
 
