@@ -13,7 +13,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 ## Événements à venir
 
  - 4 ou 5 février journée raquettes
- - 20 février déjeuner au Restaurant Beaulieu, Berne
+ - 20 février déjeuner au Restaurant Beaulieu, Berne à partir de 11:45
  - 7 mars Dîner pendant les Semaines Canadiennes à partir de 18:00
  - 31 marsou 1 April soirée quilles
  - 4 juin, 17:00 soirée théâtre Upstage, Theater Remise, Laupenstrasse 51, Bern
