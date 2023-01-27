@@ -16,6 +16,7 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochain Événement
 
-Assemblée générale annuelle: le 22 janvier 2023
+4 ou 5 février journée à raquettes
 
+20 février déjeuner au Restaurant Beaulieu, Berne
 
