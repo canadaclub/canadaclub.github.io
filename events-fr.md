@@ -21,7 +21,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
  - 1 ou 2 Juillet pique-nique Canada Day
  - 26 août BBQ d'été
  - 16 ou 17 septembre randonnée à pied
- - 22 octobre 22nd Brunch pour les membres
+ - 22 octobre Brunch pour les membres
  - 19 novembre 17:00 performance Upstage
  - 9  décembre Dîner de Noël
  - ? janvier 2024 assemblée générale annuelle
