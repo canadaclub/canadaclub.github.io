@@ -17,5 +17,6 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 # Prochains Événements
 
  - 4 ou 5 février journée à raquettes
- - 20 février déjeuner au Restaurant Beaulieu, Berne, à partir de 18:00
+ - 20 février déjeuner au Restaurant Beaulieu, Berne, à partir de 11:45
+ - 7 mars Dîner pendant les Semaines Canadiennes à partir de 18:00
 
