@@ -18,7 +18,6 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
- - Snowshoeing February 4th or 5th, alternate dated February 18th or 19th
  - Lunch at Beaulieu Restaurant February 20th, 11:45
  - Canada Weeks evening dinner at the Tramdepot, 7th March starting 18:00-18:30
 
