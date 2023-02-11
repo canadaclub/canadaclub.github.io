@@ -12,7 +12,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir
 
- - 4 ou 5 février journée raquettes - à cause du temps, on a remplacé la balade avec une fondue
+ - 4 ou 5 février journée raquettes - par manque de neige on a remplacé la balade avec une fondue
  - 20 février déjeuner au Restaurant Beaulieu, Berne à partir de 11:45
  - 7 mars Dîner pendant les Semaines Canadiennes à partir de 18:00
  - 31 mars ou 1 April soirée quilles
