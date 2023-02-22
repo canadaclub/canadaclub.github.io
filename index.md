@@ -18,8 +18,8 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
- - Lunch at Beaulieu Restaurant February 20th, 11:45
  - Canada Weeks evening dinner at the Tramdepot, 7th March starting 18:00-18:30
+ - Lunch at Beaulieu Restaurant March 28th, 11:45 
 
 # New to Bern?
 
