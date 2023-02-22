@@ -14,6 +14,7 @@ You can also find information about upcoming events on our [Facebook group page]
 ## Upcoming events for 2023
 
 - February 4th or 5th Snowshoeing Day - the weather led to replacing the snowshoes with a fondue
+- February 18th the Snowshoeing Day took place after it had snowed enough to make it possible
 - February 20th Lunch at Beaulieu Restaurant
 - March 7 Canada Weeks Dinner Get-together
 - March 31st or April 1st Bowling Evening
