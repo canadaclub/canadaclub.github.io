@@ -18,4 +18,5 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
  - 7 mars Dîner pendant les Semaines Canadiennes à partir de 18:00
  - déjeuner au Restaurant Beaulieu, Berne, 28 mars à partir de 11:45
+ - soirée quilles, 31 mars ou 1 avirl
 
