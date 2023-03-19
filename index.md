@@ -14,7 +14,7 @@ New members — temporary or long-term — are very welcome, so feel free to con
 # Next events
 
  - Lunch at Beaulieu Restaurant March 28th, 11:45
- - Bowling evening March 31st or April 1st
+ - Bowling evening April 1st, 19:00
 
 # New to Bern?
 
