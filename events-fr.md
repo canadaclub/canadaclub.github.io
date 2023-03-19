@@ -14,7 +14,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 
 - 28 mars déjeuner au Restaurant Beaulieu, Berne, à partir de 11:45
-- 31 mars ou 1 April soirée quilles
+- 1 April soirée quilles à 19:00
 - 4 juin, 17:00 soirée théâtre Upstage, Theater Remise, Laupenstrasse 51, Bern
 - ? mai balade à vélo
 - 1 ou 2 Juillet pique-nique Canada Day
