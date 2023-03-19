@@ -14,7 +14,7 @@ You can also find information about upcoming events on our [Facebook group page]
 ## Upcoming events for 2023
 
 - March 28th, lunch at Beaulieu Restaurant, 11:45
-- March 31st or April 1st Bowling Evening
+- April 1st Bowling Evening, 19:00
 - 4th June, 5p.m. Upstage performance at the Remise (Laupenstrasse)
 - May Bike Ride
 - July 1st or 2nd Canada Day Picnic
