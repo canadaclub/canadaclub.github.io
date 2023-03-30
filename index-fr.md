@@ -11,6 +11,5 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
- - déjeuner au Restaurant Beaulieu, Berne, 28 mars à partir de 11:45
  - soirée quilles, 1 avrilvers 19:00
-
+ - déjeuner au Restaurant Beaulieu, Berne, 10 mai à partir de 11:45
