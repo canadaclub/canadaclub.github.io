@@ -13,7 +13,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 ## Événements à venir
 
 
-- 1 April soirée quilles à 19:00
+- 1 avril soirée quilles à 19:00
 - 10 mai déjeuner au Restaurant Beaulieu, Berne, à partir de 11:45
 - 4 juin, 17:00 soirée théâtre Upstage, Theater Remise, Laupenstrasse 51, Bern
 - ? mai balade à vélo
