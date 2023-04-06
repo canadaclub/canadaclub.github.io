@@ -3,11 +3,6 @@ title: Canada Club Berne
 layout: page
 ---
 
-# News
-
-We have migrated our website to github pages to make it easier to update the content, and we have changed our email address to {{ site.mailto }}.
-*Please update your address book!*
-
 # About us
 
 We are a group of Canadians, Canadian-Swiss and Swiss-Canadians who are organized as Canada Club Berne, which was founded in 1981 and has been going ever since.
@@ -18,9 +13,8 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
- - Snowshoeing February 4th or 5th, alternate dated February 18th or 19th
- - Lunch at Beaulieu Restaurant February 20th, 11:45
- - Canada Weeks evening dinner at the Tramdepot, 7th March starting 18:00-18:30
+ - Bowling evening April 1st, 19:00
+ - Lunch at Beaulieu Restaurant May 10th, 11:45
 
 # New to Bern?
 

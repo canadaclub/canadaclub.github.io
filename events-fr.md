@@ -12,21 +12,18 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir
 
- - 4 ou 5 février journée raquettes
- - 20 février déjeuner au Restaurant Beaulieu, Berne à partir de 11:45
- - 7 mars Dîner pendant les Semaines Canadiennes à partir de 18:00
- - 31 mars ou 1 April soirée quilles
- - 4 juin, 17:00 soirée théâtre Upstage, Theater Remise, Laupenstrasse 51, Bern
- - ? mai balade à vélo
- - 1 ou 2 Juillet pique-nique Canada Day
- - 26 août BBQ d'été
- - 16 ou 17 septembre randonnée à pied
- - 22 octobre Brunch pour les membres
- - 19 novembre 17:00 performance Upstage
- - 9  décembre Dîner de Noël
- - ? janvier 2024 assemblée générale annuelle
 
-
+- 1 avril soirée quilles à 19:00
+- 10 mai déjeuner au Restaurant Beaulieu, Berne, à partir de 11:45
+- 4 juin, 17:00 soirée théâtre Upstage, Theater Remise, Laupenstrasse 51, Bern
+- ? mai balade à vélo
+- 1 ou 2 Juillet pique-nique Canada Day
+- 26 août BBQ d'été
+- 16 ou 17 septembre randonnée à pied
+- 22 octobre Brunch pour les membres
+- 19 novembre 17:00 performance Upstage
+- 9  décembre Dîner de Noël
+- ? janvier 2024 assemblée générale annuelle
 
 Des activités peuvent être ajoutées à tout moment si vous avez une idée. Mettez-la sur FB et faites-le savoir à l'exécutif pour informer les membres par e-mail.
 Parfois, l'ambassade a des événements dont elle nous informe.
@@ -34,6 +31,12 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 ---
 
 ## Événements passés
+
+### 2023
+
+- 7 mars Dîner pendant les Semaines Canadiennes à partir de 18:00
+- la journée à raquettes a eu lieu le 18 février - il y avait assez de neige
+- 4 ou 5 février journée raquettes - par manque de neige on a remplacé la balade avec une fondue
 
 ### 2022
 
