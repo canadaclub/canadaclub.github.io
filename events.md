@@ -13,7 +13,6 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2023
 
-- April 1st Bowling Evening, 19:00
 - May 10th lunch at Beaulieu Restaurant, 11:45
 - 4th June, 5p.m. Upstage performance at the Remise (Laupenstrasse)
 - May Bike Ride
@@ -33,6 +32,8 @@ Occasionally the Embassy informs us of events.
 ## Past events
 
 ### 2023
+
+- April 1st Bowling Evening, 19:00
 - March 7 Canada Weeks Dinner Get-together
 - February 20th Lunch at Beaulieu Restaurant
 - February 18th the Snowshoeing Day took place after it had snowed enough to make it possible

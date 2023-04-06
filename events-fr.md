@@ -13,7 +13,6 @@ Vous pouvez également trouver des informations sur les événements à venir su
 ## Événements à venir
 
 
-- 1 avril soirée quilles à 19:00
 - 10 mai déjeuner au Restaurant Beaulieu, Berne, à partir de 11:45
 - 4 juin, 17:00 soirée théâtre Upstage, Theater Remise, Laupenstrasse 51, Bern
 - ? mai balade à vélo
@@ -34,6 +33,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ### 2023
 
+- 1 avril soirée quilles à 19:00
 - 7 mars Dîner pendant les Semaines Canadiennes à partir de 18:00
 - la journée à raquettes a eu lieu le 18 février - il y avait assez de neige
 - 4 ou 5 février journée raquettes - par manque de neige on a remplacé la balade avec une fondue
@@ -48,4 +48,3 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 - 1 avril: soirée bowling
 - 27 mars: brunch Semaines Canada
 - 20 février: assemblée générale annuelle
-
