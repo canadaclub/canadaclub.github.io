@@ -17,7 +17,7 @@ Newcomers begin paying membership dues starting in January after they join the C
 20 francs per person or 40 francs per family.
 
 ## How can I pay my dues?
-We are currently reorganizing our finances. For further information please email us.
+We are currently reorganizing our finances. For further information please email us {{ site.mailto }}
 
 ![Parliament Buildings of Canada, Ottawa](images/parliament.jpg)
 
