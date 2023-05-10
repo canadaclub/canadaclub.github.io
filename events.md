@@ -13,11 +13,10 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2023
 
-- May 10th lunch at Beaulieu Restaurant, 11:45
 - May Bike Ride - to be organized
 - 10th June, 5p.m. Upstage performance at the Remise (Laupenstrasse)
 - July 2nd Canada Day Picnic
-- August 26th Afternoon BBQ in Münsingen
+- August 26th Afternoon BBQ in Münsingen, weather permitting
 - September 16th or 17th Club Hike
 - October 22nd Club Brunch
 - November 19th 5 p.m. Upstage Performance
