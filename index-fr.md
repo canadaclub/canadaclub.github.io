@@ -11,4 +11,5 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
- - déjeuner au Restaurant Beaulieu, Berne, 10 mai à partir de 11:45
+ - soirée de théâtre 10 juin, contacter Tamar
+ - 2 juillet, pique-nique pour la Journée de Fête du Canada
