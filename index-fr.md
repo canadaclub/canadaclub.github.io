@@ -13,4 +13,3 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
  - 10 juin soirée de théâtre, contacter Tamar
  - 2 juillet pique-nique pour la Journée de Fête du Canada
- - 
