@@ -13,7 +13,7 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2023
 
-- May Bike Ride - to be organized
+- May Bike Ride - to be organized 
 - 10th June, 5p.m. Upstage performance at the Remise (Laupenstrasse)
 - July 2nd Canada Day Picnic
 - August 26th Afternoon BBQ in Münsingen, weather permitting
