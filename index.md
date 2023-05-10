@@ -14,7 +14,7 @@ New members — temporary or long-term — are very welcome, so feel free to con
 # Next events
 
 - 10 June Theatre evening, contact Tamar
--  2 July Canada Day Picnic
+-  2 July Canada Day Picnic  
 
 # New to Bern?
 
