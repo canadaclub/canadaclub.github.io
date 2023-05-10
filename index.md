@@ -13,7 +13,8 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- Lunch at Beaulieu Restaurant May 10th, 11:45
+- 10 June Theatre evening, contact Tamar
+-  2 July Canada Day Picnic
 
 # New to Bern?
 
