@@ -15,7 +15,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 - 10 juin, 17:00 soirée théâtre Upstage, Theater Remise, Laupenstrasse 51, Bern
 - ? mai balade à vélo
-- 1 ou 2 Juillet pique-nique Canada Day
+- 2 Juillet pique-nique Canada Day
 - 26 août BBQ d'été, seulement par beau temps 
 - 16 ou 17 septembre randonnée à pied
 - 22 octobre Brunch pour les membres
