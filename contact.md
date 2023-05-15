@@ -17,11 +17,12 @@ Newcomers begin paying membership dues starting in January after they join the C
 20 francs per person or 40 francs per family.
 
 ## How can I pay my dues?
-Until payment slips can be made available, dues can be paid by using the following acount details:
+Dues can be paid by using the following acount details:
 Konto / Zahlbar an
 CH64 0630 0016 9469 6500 0
-Ulrich Bühler
-Evelyn Bühler
+Ulrich Bühler Evelyn Bühler
+or download bank [payment slips](canadaclub.github.io/pdfs/ccbdues 2023.pdf)
+Payment slips are available for download.
 
 ![Parliament Buildings of Canada, Ottawa](images/parliament.jpg)
 
