@@ -17,7 +17,11 @@ Newcomers begin paying membership dues starting in January after they join the C
 20 francs per person or 40 francs per family.
 
 ## How can I pay my dues?
-We are currently reorganizing our finances. For further information please email us {{ site.mailto }}
+Until payment slips can be made available, dues can be paid by using the following acount details:
+Konto / Zahlbar an
+CH64 0630 0016 9469 6500 0
+Ulrich Bühler
+Evelyn Bühler
 
 ![Parliament Buildings of Canada, Ottawa](images/parliament.jpg)
 
