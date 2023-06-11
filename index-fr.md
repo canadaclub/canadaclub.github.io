@@ -9,7 +9,6 @@ Le Club Canada de Berne a été fondé par des Canadiens et des Suisses ayant un
 
 Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors n'hésitez pas à nous contacter à {{ site.mailto }} ou à nous rejoindre sur [Facebook](https://www.facebook.com/groups/canadaclubberne/).
 
-# Prochains Événements
+# Prochain Événement
 
- - 10 juin soirée de théâtre, contacter Tamar
  - 2 juillet pique-nique pour la Journée de Fête du Canada
