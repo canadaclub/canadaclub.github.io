@@ -11,9 +11,8 @@ We promote relaxed social contacts, Canadian style, among our members. Activitie
 New members — temporary or long-term — are very welcome, so feel free to contact us at {{ site.mailto }} or join us on [Facebook](https://www.facebook.com/groups/canadaclubberne/).
 
 
-# Next events
+# Next event
 
-- 10 June Theatre evening, contact Tamar
 -  2 July Canada Day Picnic  
 
 # New to Bern?
