@@ -13,8 +13,6 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2023
 
-- May Bike Ride - to be organized 
-- 10th June, 5p.m. Upstage performance at the Remise (Laupenstrasse)
 - July 2nd Canada Day Picnic
 - August 26th Afternoon BBQ in Münsingen, weather permitting
 - September 16th or 17th Club Hike
@@ -32,6 +30,7 @@ Occasionally the Embassy informs us of events.
 
 ### 2023
 
+- 10th June, 5p.m. Upstage performance of "Lobby Hero" at the Remise (Laupenstrasse)
 - April 1st Bowling Evening, 19:00
 - March 7 Canada Weeks Dinner Get-together
 - February 20th Lunch at Beaulieu Restaurant
