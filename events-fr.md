@@ -12,9 +12,6 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir
 
-
-- 10 juin, 17:00 soirée théâtre Upstage, Theater Remise, Laupenstrasse 51, Bern
-- ? mai balade à vélo
 - 2 Juillet pique-nique Canada Day
 - 26 août BBQ d'été, seulement par beau temps 
 - 16 ou 17 septembre randonnée à pied
@@ -32,6 +29,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ### 2023
 
+- 10 juin, 17:00 soirée théâtre Upstage, "Lobby Hero", Theater Remise
 - 1 avril soirée quilles à 19:00
 - 7 mars Dîner pendant les Semaines Canadiennes à partir de 18:00
 - la journée à raquettes a eu lieu le 18 février - il y avait assez de neige
