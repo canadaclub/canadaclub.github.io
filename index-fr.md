@@ -11,4 +11,4 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochain Événement
 
- - 2 juillet pique-nique pour la Journée de Fête du Canada
+ - 26 août 2023 BBQ, Münsingen
