@@ -13,7 +13,7 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next event
 
--  2 July Canada Day Picnic  
+-  26 August 2023 BBQ in Münsingen  
 
 # New to Bern?
 
