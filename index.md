@@ -11,9 +11,10 @@ We promote relaxed social contacts, Canadian style, among our members. Activitie
 New members — temporary or long-term — are very welcome, so feel free to contact us at {{ site.mailto }} or join us on [Facebook](https://www.facebook.com/groups/canadaclubberne/).
 
 
-# Next event
+# Next events
 
--  26 August 2023 BBQ in Münsingen  
+-  26 August 2023 BBQ in Münsingen, good weather event
+-  16 or 17 September 2023 Autumn hike, date depending on weather
 
 # New to Bern?
 
