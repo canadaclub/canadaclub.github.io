@@ -9,6 +9,7 @@ Le Club Canada de Berne a été fondé par des Canadiens et des Suisses ayant un
 
 Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors n'hésitez pas à nous contacter à {{ site.mailto }} ou à nous rejoindre sur [Facebook](https://www.facebook.com/groups/canadaclubberne/).
 
-# Prochain Événement
+# Prochain Événements
 
- - 26 août 2023 BBQ, Münsingen
+ - 26 août 2023 BBQ Münsingen événement beau temps
+ - 16 ou 17 septembre randonnée à pied, date suivant le temps 
