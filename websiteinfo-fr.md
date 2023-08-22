@@ -1,6 +1,7 @@
 ---
 title: Mentions légales
 layout: page-fr
+permalink: /websiteinfo-fr
 ---
 
 ## Propriété

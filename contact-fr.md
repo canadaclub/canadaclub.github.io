@@ -1,6 +1,7 @@
 ---
 title: Contact
 layout: page-fr
+permalink: /contact-fr
 ---
 
 Vous pouvez nous contacter à {{ site.mailto }}.

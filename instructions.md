@@ -1,6 +1,7 @@
 ---
 title: Instructions for updating this website
 layout: default
+permalink: /instructions
 ---
 
 # Instructions for updating this website

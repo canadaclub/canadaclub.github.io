@@ -1,6 +1,7 @@
 ---
 title: Events
 layout: page
+permalink: /events
 ---
 
 Club events are listed here. 

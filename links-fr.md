@@ -1,6 +1,7 @@
 ---
 title: Liens
 layout: page-fr
+permalink: /links-fr
 ---
 
 ## L'ambassade du Canada, Berne

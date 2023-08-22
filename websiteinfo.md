@@ -1,6 +1,7 @@
 ---
 title: About Our Website
 layout: page
+permalink: /websiteinfo
 ---
 
 ## Intellectual property

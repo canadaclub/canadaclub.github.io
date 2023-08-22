@@ -1,6 +1,7 @@
 ---
 title: Links
 layout: page
+permalink: /links
 ---
 
 ## Canadian Embassy, Berne

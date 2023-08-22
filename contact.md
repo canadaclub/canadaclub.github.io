@@ -1,6 +1,7 @@
 ---
 title: Contact
 layout: page
+permalink: /contact
 ---
 
 Please contact us through our e-mail address: {{ site.mailto }}.

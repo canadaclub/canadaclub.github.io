@@ -1,6 +1,7 @@
 ---
 title: Canada Club Berne
 layout: page-fr
+permalink: /index-fr
 ---
 
 # Qui nous sommes

@@ -1,6 +1,7 @@
 ---
 title: Événement
 layout: page-fr
+permalink: /events-fr
 ---
 
 Les événements du club sont répertoriés ici. S'il existe des documentations (photos, descriptifs), elles sont mises à disposition des membres en téléchargement depuis notre espace cloud.

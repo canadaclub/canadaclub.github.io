@@ -1,6 +1,7 @@
 ---
 title: Canada Club Berne
 layout: page
+permalink: /
 ---
 
 # About us
