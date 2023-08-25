@@ -14,7 +14,6 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2023
 
-- July 2nd Canada Day Picnic
 - August 26th Afternoon BBQ in Münsingen, weather permitting
 - September 16th or 17th Club Hike
 - October 22nd Club Brunch
@@ -31,6 +30,7 @@ Occasionally the Embassy informs us of events.
 
 ### 2023
 
+- July 2nd Canada Day Picnic
 - 10th June, 5p.m. Upstage performance of "Lobby Hero" at the Remise (Laupenstrasse)
 - April 1st Bowling Evening, 19:00
 - March 7 Canada Weeks Dinner Get-together
