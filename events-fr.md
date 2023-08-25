@@ -13,7 +13,6 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir
 
-- 2 Juillet pique-nique Canada Day
 - 26 août BBQ d'été, seulement par beau temps 
 - 16 ou 17 septembre randonnée à pied
 - 22 octobre Brunch pour les membres
@@ -30,6 +29,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ### 2023
 
+- 2 Juillet pique-nique Canada Day
 - 10 juin, 17:00 soirée théâtre Upstage, "Lobby Hero", Theater Remise
 - 1 avril soirée quilles à 19:00
 - 7 mars Dîner pendant les Semaines Canadiennes à partir de 18:00
