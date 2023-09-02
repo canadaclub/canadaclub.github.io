@@ -13,7 +13,6 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir
 
-- 26 août BBQ d'été, seulement par beau temps 
 - 16 ou 17 septembre randonnée à pied
 - 22 octobre Brunch pour les membres
 - 19 novembre 17:00 performance Upstage
@@ -29,7 +28,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ### 2023
 
-- 26 août BBQ d'été, seulement par beau temps
+- 26 août BBQ d'été
 - 2 Juillet pique-nique Canada Day
 - 10 juin, 17:00 soirée théâtre Upstage, "Lobby Hero", Theater Remise
 - 1 avril soirée quilles à 19:00
