@@ -29,6 +29,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ### 2023
 
+- 26 août BBQ d'été, seulement par beau temps
 - 2 Juillet pique-nique Canada Day
 - 10 juin, 17:00 soirée théâtre Upstage, "Lobby Hero", Theater Remise
 - 1 avril soirée quilles à 19:00
