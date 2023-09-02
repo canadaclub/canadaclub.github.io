@@ -12,5 +12,5 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
- - 26 août 2023 BBQ Münsingen a lieu malgré le temps, à l'intérieur
- - 16 ou 17 septembre randonnée à pied, date suivant le temps 
+ - 16 ou 17 septembre randonnée à pied, date suivant le temps
+ - 22 octobre Brunch
