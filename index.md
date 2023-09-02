@@ -13,9 +13,8 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 
 # Next events
-
--  26 August 2023 BBQ in Münsingen: as of 12:15 Uhr Elsbeth and I are still holding the BBQ, but indoors
 -  16 or 17 September 2023 Autumn hike, date depending on weather
+-  22 October Club Brunch
 
 # New to Bern?
 
