@@ -12,6 +12,5 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
- - 14 octobre lunch au Beaulieu, 11:00
  - 16 ou 17 septembre randonnée à pied, date suivant le temps
  - 22 octobre Brunch
