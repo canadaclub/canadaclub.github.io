@@ -30,7 +30,7 @@ Occasionally the Embassy informs us of events.
 
 ### 2023
 
-  - August 26th Afternoon BBQ in Münsingen, weather permitting
+  - August 26th Afternoon BBQ in Münsingen
   - July 2nd Canada Day Picnic
   - 10th June, 5p.m. Upstage performance of "Lobby Hero" at the Remise (Laupenstrasse)
 - April 1st Bowling Evening, 19:00
