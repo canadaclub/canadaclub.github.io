@@ -14,7 +14,6 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
--  16 or 17 September 2023 Autumn hike, date depending on weather
 -  22 October Club Brunch
 
 # New to Bern?
