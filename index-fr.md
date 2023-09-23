@@ -12,5 +12,4 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
- - 16 ou 17 septembre randonnée à pied, date suivant le temps
  - 22 octobre Brunch
