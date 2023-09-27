@@ -15,7 +15,6 @@ You can also find information about upcoming events on our [Facebook group page]
 ## Upcoming events for 2023
 
 
-- September 16th or 17th Club Hike
 - October 22nd Club Brunch
 - November 19th 5 p.m. Upstage Performance
 - December 9th Annual Christmas Dinner
