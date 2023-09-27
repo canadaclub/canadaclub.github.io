@@ -13,7 +13,6 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir
 
-- 16 ou 17 septembre randonnée à pied
 - 22 octobre Brunch pour les membres
 - 19 novembre 17:00 performance Upstage
 - 9  décembre Dîner de Noël
