@@ -12,4 +12,5 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
- - 22 octobre Brunch
+ - 23 novembre 11:00 déjeuner Beaulieu
+ - 09 décembre Dîner de Noël
