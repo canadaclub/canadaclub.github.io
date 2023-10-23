@@ -14,6 +14,7 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
+-  23 November Luncheon Beaulieu
 -  09 December Club Christmas Dinner
 
 # New to Bern?
