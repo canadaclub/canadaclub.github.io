@@ -14,7 +14,7 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
--  22 October Club Brunch
+-  09 December Club Christmas Dinner
 
 # New to Bern?
 
