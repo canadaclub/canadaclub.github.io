@@ -12,5 +12,5 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
- - 23 novembre 11:00 déjeuner Beaulieu
  - 09 décembre Dîner de Noël
+ - Assemblée générale annuelle, les détails suivent
