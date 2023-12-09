@@ -12,5 +12,4 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
- - 09 décembre Dîner de Noël
- - Assemblée générale annuelle, les détails suivent
+  - 14 janvier 2024, 16:00 Assemblée générale annuelle
