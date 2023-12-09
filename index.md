@@ -14,9 +14,7 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
--  09 December Club Christmas Dinner
--  AGM, date to be announced
-
+-  14 Januay 2024 um 16:00 Uhr Annual General Meeting
 # New to Bern?
 
 Here's an interesting guide to Bern, created by students at the University of Bern. It can be useful for newcomers to the region as well as anyone looking to live more sustainably in and around Bern.
