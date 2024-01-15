@@ -12,13 +12,21 @@ However, you will have to contact us at {{ site.mailto }} for the event details.
 
 You can also find information about upcoming events on our [Facebook group page](https://www.facebook.com/groups/canadaclubberne/).
 
-## Upcoming events for 2023
+## Upcoming events for 2024
 
 
-- October 22nd Club Brunch
-- November 19th 5 p.m. Upstage Performance
-- December 9th Annual Christmas Dinner
-- January 2024 Annual General Meeting, date to follow
+- January 26: Lunch at Casa D'Italia
+- January 27: Lyss theatre event
+- February 3, 4, 10, or 11: Snowshoeing event (TBC)
+- February 23: Bowling in Marzili (TBC)
+- Marrch 22: Tramdepot Canada week evening
+- April 19: Games night
+- May ?: Jura flower walk (TBC)
+- June 9: Upstage Theatre evening
+- June 30: Canada day picnic (TBC)
+- August 17: Garden party in Münsingen
+- October 27: Pancake brunch
+- Dec 7: Annual Christmas Dinner, Restaurant Ochsen Münsingen
 
 Activities can be added at any time if you have an idea. 
 Put it on FB and let the Exec know to inform members by email.
@@ -27,15 +35,23 @@ Occasionally the Embassy informs us of events.
 ---
 ## Past events
 
+### 2024
+
+- January 14: Annual General Meeting, Cerny Inuit museum
+
 ### 2023
 
-  - August 26th Afternoon BBQ in Münsingen
-  - July 2nd Canada Day Picnic
-  - 10th June, 5p.m. Upstage performance of "Lobby Hero" at the Remise (Laupenstrasse)
-- April 1st Bowling Evening, 19:00
-- March 7 Canada Weeks Dinner Get-together
-- February 20th Lunch at Beaulieu Restaurant
-- February 18th the Snowshoeing Day took place after it had snowed enough to make it possible
+- December 9: Annual Christmas Dinner, Restaurant Ochsen Münsingen
+- November 25: Upstage Performance of “The Island of Slaves” at the Käfigturm
+- November 23: Canada Club lunch at Beaulieu
+- October 22: Pancake brunch
+- August 26: Afternoon BBQ in Münsingen
+- July 2: Canada Day picnic
+- June 10: Upstage performance of "Lobby Hero" at the Remise (Laupenstrasse)
+- April 1: Bowling evening at Mazili
+- March 7: Canada Weeks Dinner Get-together
+- February 20: Lunch at Beaulieu Restaurant
+- February 18: Snowshoeing Day
 
 ### 2022
 
