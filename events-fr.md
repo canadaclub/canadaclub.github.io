@@ -11,7 +11,7 @@ Les membres sont libres d'inviter des amis et de la famille en visite en Suisse.
 
 Vous pouvez également trouver des informations sur les événements à venir sur notre [page de groupe Facebook](https://www.facebook.com/groups/canadaclubberne/).
 
-## Événements à venir
+## Événements à venir en 2024
 
 - 26 janvier: Déjeuner à la Casa D'Italia
 - 27 janvier: Événement théâtral à Lyss
@@ -32,6 +32,8 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 ---
 
 ## Événements passés
+
+### 2024
 
 - 14 janvier: assemblée générale annuelle
 
