@@ -12,4 +12,5 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
-  - 14 janvier 2024, 16:00 Assemblée générale annuelle
+- 26 janvier: Déjeuner à la Casa D'Italia
+
