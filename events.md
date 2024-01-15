@@ -14,7 +14,6 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2024
 
-
 - January 26: Lunch at Casa D'Italia
 - January 27: Lyss theatre event
 - February 3, 4, 10, or 11: Snowshoeing event (TBC)
