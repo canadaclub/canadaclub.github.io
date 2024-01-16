@@ -14,18 +14,18 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2024
 
-- January 26: Lunch at Casa D'Italia
-- January 27: Lyss theatre event
+- January 26: Lunch at [Casa D'Italia](https://www.casaitalia.ch)
+- January 27: [Teatrolyssimo](https://www.teatrolyssimo.ch) play “The importance of being Ernest” in Swiss-German at 20h00
 - February 3, 4, 10, or 11: Snowshoeing event (TBC)
-- February 23: Bowling in Marzili (TBC)
-- Marrch 22: Tramdepot Canada week evening
+- February 23: Bowling in [Marzili](https://www.bowling-marzili.ch) (TBC)
+- Marrch 22: [Tramdepot Canada week](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen) evening
 - April 19: Games night
-- May ?: Jura flower walk (TBC)
-- June 9: Upstage Theatre evening
+- May ?: [Jura flower walk](https://jurapark-aargau.ch/themenwege-paerke?offer=44603) (TBC)
+- June 9: [Upstage](https://upstage.ch) Theatre evening
 - June 30: Canada day picnic (TBC)
 - August 17: Garden party in Münsingen
 - October 27: Pancake brunch
-- Dec 7: Annual Christmas Dinner, Restaurant Ochsen Münsingen
+- Dec 7: Annual Christmas Dinner, Restaurant [Ochsen](https://www.ochsen-muensingen.ch) Münsingen
 
 Activities can be added at any time if you have an idea. 
 Put it on FB and let the Exec know to inform members by email.

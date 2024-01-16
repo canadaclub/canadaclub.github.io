@@ -13,7 +13,8 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- January 26: Lunch at Casa D'Italia
+- January 19: [Casino Bern concert by Jan Lisiecki](https://www.casinobern.ch/programm/jan-lisiecki-2/), a young Canadian pianist
+- January 26: Lunch at [Casa D'Italia](https://www.casaitalia.ch)
 
 # New to Bern?
 
