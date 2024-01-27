@@ -14,12 +14,11 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2024
 
-- January 19: [Casino Bern concert by Jan Lisiecki](https://www.casinobern.ch/programm/jan-lisiecki-2/), a young Canadian pianist
-- January 26: Lunch at [Casa D'Italia](https://www.casaitalia.ch)
 - January 27: [Teatrolyssimo](https://www.teatrolyssimo.ch) play “The importance of being Ernest” in Swiss-German at 20h00
 - February 3, 4, 10, or 11: Snowshoeing event (TBC)
 - February 23: Bowling in [Marzili](https://www.bowling-marzili.ch) (TBC)
-- Marrch 22: [Tramdepot Canada week](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen) evening
+- March 4: Lunch at [Casa D'Italia](https://www.casaitalia.ch)
+- March 22: [Tramdepot Canada week](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen) evening
 - April 19: Games night
 - May ?: [Jura flower walk](https://jurapark-aargau.ch/themenwege-paerke?offer=44603) (TBC)
 - June 9: [Upstage](https://upstage.ch) Theatre evening
@@ -37,6 +36,8 @@ Occasionally the Embassy informs us of events.
 
 ### 2024
 
+- January 26: Lunch at [Casa D'Italia](https://www.casaitalia.ch)
+- January 19: [Casino Bern concert by Jan Lisiecki](https://www.casinobern.ch/programm/jan-lisiecki-2/), a young Canadian pianist
 - January 14: Annual General Meeting, Cerny Inuit museum
 
 ### 2023

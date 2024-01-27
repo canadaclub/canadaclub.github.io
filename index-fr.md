@@ -12,5 +12,5 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
-- 19 janvier : [Concert au Casino de Berne de Jan Lisiecki](https://www.casinobern.ch/programm/jan-lisiecki-2/), jeune pianiste canadien
-- 26 janvier : Déjeuner à la [Casa D'Italia](https://www.casaitalia.ch)
+- 27 janvier : [Teatrolyssimo](https://www.teatrolyssimo.ch) pièce de théâtre "L'importance d'être Ernest" en suisse-allemand à 20h00
+- 3, 4, 10 ou 11 février : randonnée en raquettes à neige (à confirmer)

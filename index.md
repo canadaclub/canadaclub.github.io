@@ -13,8 +13,8 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- January 19: [Casino Bern concert by Jan Lisiecki](https://www.casinobern.ch/programm/jan-lisiecki-2/), a young Canadian pianist
-- January 26: Lunch at [Casa D'Italia](https://www.casaitalia.ch)
+- January 27: [Teatrolyssimo](https://www.teatrolyssimo.ch) play “The importance of being Ernest” in Swiss-German at 20h00
+- February 3, 4, 10, or 11: Snowshoeing event (TBC)
 
 # New to Bern?
 
