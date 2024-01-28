@@ -13,7 +13,6 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- January 27: [Teatrolyssimo](https://www.teatrolyssimo.ch) play “The importance of being Ernest” in Swiss-German at 20h00
 - February 3, 4, 10, or 11: Snowshoeing event (TBC)
 - March 4, 12:15: Lunch at Casa d'Italia, Bühlstrasse 57, Bern
 
