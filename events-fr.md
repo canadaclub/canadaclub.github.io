@@ -13,9 +13,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir en 2024
 
-- 27 janvier : [Teatrolyssimo](https://www.teatrolyssimo.ch) pièce de théâtre "L'importance d'être Ernest" en suisse-allemand à 20h00
-- 3, 4, 10 ou 11 février : randonnée en raquettes à neige (à confirmer)
-- 23 février : Bowling à [Marzili](https://www.bowling-marzili.ch) (à confirmer)
+- 23 février : Bowling à [Marzili](https://www.bowling-marzili.ch)
 - 4 mars : Déjeuner à la [Casa D'Italia](https://www.casaitalia.ch)
 - 22 mars : Soirée [Tramdepot Canada week](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen)
 - 19 avril : Soirée jeux
@@ -35,6 +33,8 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ### 2024
 
+- 4 février : randonnée en raquettes à neige
+- 27 janvier : [Teatrolyssimo](https://www.teatrolyssimo.ch) pièce de théâtre "L'importance d'être Ernest" en suisse-allemand à 20h00
 - 26 janvier : Déjeuner à la [Casa D'Italia](https://www.casaitalia.ch)
 - 19 janvier : [Concert au Casino de Berne de Jan Lisiecki](https://www.casinobern.ch/programm/jan-lisiecki-2/), jeune pianiste canadien
 - 14 janvier: assemblée générale annuelle
