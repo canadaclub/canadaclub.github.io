@@ -23,3 +23,4 @@ Here's an interesting guide to Bern, created by students at the University of Be
 
 Click [here](https://www.bne.unibe.ch/for_students/out_and_about_sustainably_in_bern/index_eng.html) to access the PDF
 
+
