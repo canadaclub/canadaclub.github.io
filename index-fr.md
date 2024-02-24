@@ -12,5 +12,6 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
-- 23 février : Bowling à [Marzili](https://www.bowling-marzili.ch)
+- 2 mars : Randonnée en raquettes dans le Lötschental
 - 4 mars : Déjeuner à la [Casa D'Italia](https://www.casaitalia.ch)
+- 22 mars : Soirée [Tramdepot Canada week](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen)

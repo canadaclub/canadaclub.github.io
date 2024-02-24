@@ -13,14 +13,14 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir en 2024
 
-- 23 février : Bowling à [Marzili](https://www.bowling-marzili.ch)
+- 2 mars : Randonnée en raquettes dans le Lötschental
 - 4 mars : Déjeuner à la [Casa D'Italia](https://www.casaitalia.ch)
 - 22 mars : Soirée [Tramdepot Canada week](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen)
 - 19 avril : Soirée jeux
 - Mai ? : [Promenade des fleurs du Jura](https://jurapark-aargau.ch/themenwege-paerke?offer=44603) (à confirmer)
 - 9 juin : [Upstage]() Soirée théâtre [Upstage](https://upstage.ch)
 - 30 juin : Pique-nique pour la fête du Canada (à confirmer)
-- 18 août : Garden party à Münsingen
+- 11 août : Garden party à Münsingen
 - 27 octobre : Brunch aux crêpes
 - 7 décembre : Dîner de Noël annuel, Restaurant [Ochsen](https://www.ochsen-muensingen.ch) Münsingen
 
@@ -33,6 +33,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ### 2024
 
+- 23 février : Bowling à [Marzili](https://www.bowling-marzili.ch)
 - 4 février : randonnée en raquettes à neige
 - 27 janvier : [Teatrolyssimo](https://www.teatrolyssimo.ch) pièce de théâtre "L'importance d'être Ernest" en suisse-allemand à 20h00
 - 26 janvier : Déjeuner à la [Casa D'Italia](https://www.casaitalia.ch)
