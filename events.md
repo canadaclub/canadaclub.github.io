@@ -21,7 +21,7 @@ You can also find information about upcoming events on our [Facebook group page]
 - May ?: [Jura flower walk](https://jurapark-aargau.ch/themenwege-paerke?offer=44603) (TBC)
 - June 9: [Upstage](https://upstage.ch) Theatre evening
 - June 30: Canada day picnic (TBC)
-- August 11: BBQ in Münsingen
+- August 11: Summer BBQ in Münsingen
 - October 27: Pancake brunch
 - Dec 7: Annual Christmas Dinner, Restaurant [Ochsen](https://www.ochsen-muensingen.ch) Münsingen
 
