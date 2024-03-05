@@ -13,8 +13,6 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- March 2: Lötschental snowshoe trail
-- March 4: Lunch at [Casa D'Italia](https://www.casaitalia.ch)
 - March 22: [Tramdepot Canada week](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen) evening
 
 # New to Bern?
