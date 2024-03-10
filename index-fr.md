@@ -13,3 +13,4 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 # Prochains Événements
 
 - 22 mars : Soirée [Tramdepot Canada week](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen)
+- 19 avril : Soirée jeux

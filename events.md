@@ -14,8 +14,6 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2024
 
-- March 2: Lötschental snowshoe trail
-- March 4: Lunch at [Casa D'Italia](https://www.casaitalia.ch)
 - March 22: [Tramdepot Canada week](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen) evening
 - April 19: Games night
 - May ?: [Jura flower walk](https://jurapark-aargau.ch/themenwege-paerke?offer=44603) (TBC)
@@ -34,6 +32,8 @@ Occasionally the Embassy informs us of events.
 
 ### 2024
 
+- March 4: Lunch at [Casa D'Italia](https://www.casaitalia.ch)
+- March 2: Lötschental snowshoe trail
 - February 23: Bowling in [Marzili](https://www.bowling-marzili.ch)
 - February 4: Snowshoeing event
 - January 27: [Teatrolyssimo](https://www.teatrolyssimo.ch) play “The importance of being Ernest” in Swiss-German at 20h00
