@@ -13,7 +13,7 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- March 22: [Tramdepot Canada week](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen) evening
+- April 16: Lunch at [Casa D'Italia](https://www.casaitalia.ch)
 - April 19: Games night
 
 # New to Bern?

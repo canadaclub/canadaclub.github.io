@@ -13,7 +13,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir en 2024
 
-- 22 mars : Soirée [Tramdepot Canada week](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen)
+- 16 avril : Déjeuner à la [Casa D'Italia](https://www.casaitalia.ch)
 - 19 avril : Soirée jeux
 - Mai ? : [Promenade des fleurs du Jura](https://jurapark-aargau.ch/themenwege-paerke?offer=44603) (à confirmer)
 - 9 juin : [Upstage]() Soirée théâtre [Upstage](https://upstage.ch)
@@ -31,6 +31,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ### 2024
 
+- 22 mars : Soirée [Tramdepot Canada week](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen)
 - 4 mars : Déjeuner à la [Casa D'Italia](https://www.casaitalia.ch)
 - 2 mars : Randonnée en raquettes dans le Lötschental
 - 23 février : Bowling à [Marzili](https://www.bowling-marzili.ch)
