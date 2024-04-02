@@ -17,7 +17,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 - 19 avril : Soirée jeux
 - Mai ? : [Promenade des fleurs du Jura](https://jurapark-aargau.ch/themenwege-paerke?offer=44603) (à confirmer)
 - 9 juin : [Upstage]() Soirée théâtre [Upstage](https://upstage.ch)
-- 30 juin : Pique-nique pour la fête du Canada (à confirmer)
+- 30 juin : Pique-nique pour la fête du Canada à Kirchberg
 - 11 août : BBQ d'été à Münsingen
 - 27 octobre : Brunch aux crêpes
 - 7 décembre : Dîner de Noël annuel, Restaurant [Ochsen](https://www.ochsen-muensingen.ch) Münsingen
