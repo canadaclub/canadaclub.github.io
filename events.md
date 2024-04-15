@@ -16,7 +16,7 @@ You can also find information about upcoming events on our [Facebook group page]
 
 - April 16: Lunch at [Casa D'Italia](https://www.casaitalia.ch)
 - April 19: Games night
-- May ?: [Jura flower walk](https://jurapark-aargau.ch/themenwege-paerke?offer=44603) (TBC)
+- May 10: [Les Breuleux scenic circular hike](https://www.wanderungen.ch/de/touren/wanderungen/jura/Les%20Breuleux-Le%20Peuchapatte-Beau%20S%C3%A9jour.html?tour=2170)
 - June 9: [Upstage](https://upstage.ch) Theatre evening
 - June 30: Canada day picnic in Kirchberg
 - August 11: Summer BBQ in Münsingen
