@@ -14,3 +14,4 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 - 16 avril : Déjeuner à la [Casa D'Italia](https://www.casaitalia.ch)
 - 19 avril : Soirée jeux
+- 9/10/11/12 mai : (date à confirmer) [Randonnée panoramique circulaire des Breuleux] (https://www.wanderungen.ch/de/touren/wanderungen/jura/Les%20Breuleux-Le%20Peuchapatte-Beau%20S%C3%A9jour.html?tour=2170)
