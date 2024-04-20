@@ -14,9 +14,7 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2024
 
-- April 16: Lunch at [Casa D'Italia](https://www.casaitalia.ch)
-- April 19: Games night
-- May 9/10/11/12: (date TBC) [Les Breuleux scenic circular hike](https://www.wanderungen.ch/de/touren/wanderungen/jura/Les%20Breuleux-Le%20Peuchapatte-Beau%20S%C3%A9jour.html?tour=2170)
+- May 9: (rain date May 11) [Les Breuleux scenic circular hike](https://www.wanderungen.ch/de/touren/wanderungen/jura/Les%20Breuleux-Le%20Peuchapatte-Beau%20S%C3%A9jour.html?tour=2170)
 - June 9: [Upstage](https://upstage.ch) Theatre evening
 - June 30: Canada day picnic in Kirchberg
 - August 11: Summer BBQ in Münsingen
@@ -32,6 +30,8 @@ Occasionally the Embassy informs us of events.
 
 ### 2024
 
+- April 19: Games night
+- April 16: Lunch at [Casa D'Italia](https://www.casaitalia.ch)
 - March 22: [Tramdepot Canada week](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen) evening
 - March 4: Lunch at [Casa D'Italia](https://www.casaitalia.ch)
 - March 2: Lötschental snowshoe trail
