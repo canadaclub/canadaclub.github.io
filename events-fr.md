@@ -13,7 +13,6 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir en 2024
 
-- 9 mai : (date de pluie le 11 mai) [Randonnée panoramique circulaire des Breuleux] (https://www.wanderungen.ch/de/touren/wanderungen/jura/Les%20Breuleux-Le%20Peuchapatte-Beau%20S%C3%A9jour.html?tour=2170)
 - 9 juin : [Upstage]() Soirée théâtre [Upstage](https://upstage.ch)
 - 30 juin : Pique-nique pour la fête du Canada à Kirchberg
 - 11 août : BBQ d'été à Münsingen
@@ -29,6 +28,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ### 2024
 
+- 9 mai : [Randonnée panoramique circulaire des Breuleux] (https://www.wanderungen.ch/de/touren/wanderungen/jura/Les%20Breuleux-Le%20Peuchapatte-Beau%20S%C3%A9jour.html?tour=2170)
 - 19 avril : Soirée jeux
 - 16 avril : Déjeuner à la [Casa D'Italia](https://www.casaitalia.ch)
 - 22 mars : Soirée [Tramdepot Canada week](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen)

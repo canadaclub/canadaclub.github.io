@@ -13,9 +13,9 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- May 9: (rain date May 11) [Les Breuleux scenic circular hike](https://www.wanderungen.ch/de/touren/wanderungen/jura/Les%20Breuleux-Le%20Peuchapatte-Beau%20S%C3%A9jour.html?tour=2170)
 - June 9: [Upstage](https://upstage.ch) Theatre evening
 - June 30: Canada day picnic in Kirchberg
+- August 11: Summer BBQ in Münsingen
 
 # New to Bern?
 

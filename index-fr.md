@@ -12,6 +12,6 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
-- 9 mai : (date de pluie le 11 mai) [Randonnée panoramique circulaire des Breuleux] (https://www.wanderungen.ch/de/touren/wanderungen/jura/Les%20Breuleux-Le%20Peuchapatte-Beau%20S%C3%A9jour.html?tour=2170)
 - 9 juin : [Upstage]() Soirée théâtre [Upstage](https://upstage.ch)
 - 30 juin : Pique-nique pour la fête du Canada à Kirchberg
+- 11 août : BBQ d'été à Münsingen
