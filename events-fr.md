@@ -14,6 +14,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 ## Événements à venir en 2024
 
 - 9 juin : [Upstage]() Soirée théâtre [Upstage](https://upstage.ch)
+- 19 juin : Déjeuner au [Restaurant Beaulieu] (https://www.restaurantbeaulieu.ch)
 - 30 juin : Pique-nique pour la fête du Canada à Kirchberg
 - 11 août : BBQ d'été à Münsingen
 - 27 octobre : Brunch aux crêpes

@@ -15,6 +15,7 @@ You can also find information about upcoming events on our [Facebook group page]
 ## Upcoming events for 2024
 
 - June 9: [Upstage](https://upstage.ch) Theatre evening
+- June 19: Lunch at [Restaurant Beaulieu](https://www.restaurantbeaulieu.ch)
 - June 30: Canada day picnic in Kirchberg
 - August 11: Summer BBQ in Münsingen
 - October 27: Pancake brunch
