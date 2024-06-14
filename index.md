@@ -13,7 +13,6 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- June 9: [Upstage](https://upstage.ch) Theatre evening
 - June 19: Lunch at [Restaurant Beaulieu](https://www.restaurantbeaulieu.ch)
 - June 30: Canada day picnic in Kirchberg
 - August 11: Summer BBQ in Münsingen
