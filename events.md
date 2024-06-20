@@ -14,7 +14,6 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2024
 
-- June 19: Lunch at [Restaurant Beaulieu](https://www.restaurantbeaulieu.ch)
 - June 30: Canada day picnic in Kirchberg
 - August 11: Summer BBQ in Münsingen
 - October 27: Pancake brunch
@@ -29,6 +28,7 @@ Occasionally the Embassy informs us of events.
 
 ### 2024
 
+- June 19: Lunch at [Restaurant Beaulieu](https://www.restaurantbeaulieu.ch)
 - June 9: [Upstage](https://upstage.ch) Theatre evening
 - May 9: [Les Breuleux scenic circular hike](https://www.wanderungen.ch/de/touren/wanderungen/jura/Les%20Breuleux-Le%20Peuchapatte-Beau%20S%C3%A9jour.html?tour=2170)
 - April 19: Games night

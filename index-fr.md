@@ -12,6 +12,5 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
-- 19 juin : Déjeuner au [Restaurant Beaulieu] (https://www.restaurantbeaulieu.ch)
 - 30 juin : Pique-nique pour la fête du Canada à Kirchberg
 - 11 août : BBQ d'été à Münsingen
