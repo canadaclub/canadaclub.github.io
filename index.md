@@ -13,8 +13,9 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- June 30: Canada day picnic in Kirchberg
 - August 11: Summer BBQ in Münsingen
+- October 27: Pancake brunch
+- Dec 7: Annual Christmas Dinner, Restaurant [Ochsen](https://www.ochsen-muensingen.ch) Münsingen
 
 # New to Bern?
 
