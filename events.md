@@ -14,7 +14,6 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2024
 
-- August 11: Summer BBQ in Münsingen
 - October 27: Pancake brunch
 - Dec 7: Annual Christmas Dinner, Restaurant [Ochsen](https://www.ochsen-muensingen.ch) Münsingen
 
@@ -27,6 +26,7 @@ Occasionally the Embassy informs us of events.
 
 ### 2024
 
+- August 11: Summer BBQ in Münsingen
 - June 30: Canada day picnic in Kirchberg
 - June 19: Lunch at [Restaurant Beaulieu](https://www.restaurantbeaulieu.ch)
 - June 9: [Upstage](https://upstage.ch) Theatre evening
