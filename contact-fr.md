@@ -17,11 +17,7 @@ Nos cotisations couvrent l'année de janvier à décembre. Les nouveaux membres 
 Nous payons 20 chf par personne ou 40 chf par famille.
 
 ## Comment payer?
-directement sur notre compte bancaire:
-CH64 0630 0016 9469 6500 0  
-Ulrich Bühler/Evelyn Bühler,3098 Köniz
-
-**ou bien par** [bulletin de versement à charger](https://canadaclub.ch/canadaclub.github.io/pdfs/ccbdues%202023.pdf)
+Veuillez nous contacter pour plus de détails: {{ site.mailto }}.
 
 ![Parliament Buildings of Canada, Ottawa](images/parliament.jpg)
 
