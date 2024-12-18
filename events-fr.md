@@ -13,7 +13,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir en 2025
 
-- 14 janvier : assemblée générale annuelle, The Museum of Contemporary Circumpolar Art @ 16h00
+- 14 janvier: assemblée générale annuelle, [The Museum of Contemporary Circumpolar Art](https://mcca.ch) @ 16h00
 - 22 janvier : [Teatrolyssimo](https://www.teatrolyssimo.ch) joue « Pas seulement au temps de Noël » en suisse-allemand à 20h00
 
 Des activités peuvent être ajoutées à tout moment si vous avez une idée. Mettez-la sur FB et faites-le savoir à l'exécutif pour informer les membres par e-mail.
