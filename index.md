@@ -16,10 +16,4 @@ New members — temporary or long-term — are very welcome, so feel free to con
 - January 12: Annual General Meeting, [The Museum of Contemporary Circumpolar Art](https://mcca.ch) @ 16h00
 - January 22: [Teatrolyssimo](https://www.teatrolyssimo.ch) play “Nicht nur zur Weihnachtszeit” in Swiss-German at 20h00
 
-# New to Bern?
-
-Here's an interesting guide to Bern, created by students at the University of Bern. It can be useful for newcomers to the region as well as anyone looking to live more sustainably in and around Bern.
-
-Click [here](https://www.bne.unibe.ch/for_students/out_and_about_sustainably_in_bern/index_eng.html) to access the PDF
-
 
