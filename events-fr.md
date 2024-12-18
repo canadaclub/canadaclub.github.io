@@ -11,9 +11,9 @@ Les membres sont libres d'inviter des amis et de la famille en visite en Suisse.
 
 Vous pouvez également trouver des informations sur les événements à venir sur notre [page de groupe Facebook](https://www.facebook.com/groups/canadaclubberne/).
 
-## Événements à venir en 2024
+## Événements à venir en 2025
 
-- 7 décembre : Dîner de Noël annuel, Restaurant [Ochsen](https://www.ochsen-muensingen.ch) Münsingen
+- 14 janvier: assemblée générale annuelle, The Museum of Contemporary Circumpolar Art @ 16h00
 
 Des activités peuvent être ajoutées à tout moment si vous avez une idée. Mettez-la sur FB et faites-le savoir à l'exécutif pour informer les membres par e-mail.
 Parfois, l'ambassade a des événements dont elle nous informe.
@@ -24,6 +24,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ### 2024
 
+- 7 décembre : Dîner de Noël annuel, Restaurant [Ochsen](https://www.ochsen-muensingen.ch) Münsingen
 - 27 octobre : Brunch aux crêpes
 - 11 août : BBQ d'été à Münsingen
 - 30 juin : Pique-nique pour la fête du Canada à Kirchberg

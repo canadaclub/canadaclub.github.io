@@ -13,7 +13,7 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- Dec 7: Annual Christmas Dinner, Restaurant [Ochsen](https://www.ochsen-muensingen.ch) Münsingen
+- January 12: Annual General Meeting, The Museum of Contemporary Circumpolar Art @ 16h00
 
 # New to Bern?
 

@@ -12,9 +12,9 @@ However, you will have to contact us at {{ site.mailto }} for the event details.
 
 You can also find information about upcoming events on our [Facebook group page](https://www.facebook.com/groups/canadaclubberne/).
 
-## Upcoming events for 2024
+## Upcoming events for 2025
 
-- Dec 7: Annual Christmas Dinner, Restaurant [Ochsen](https://www.ochsen-muensingen.ch) Münsingen
+- January 12: Annual General Meeting, The Museum of Contemporary Circumpolar Art @ 16h00
 
 Activities can be added at any time if you have an idea. 
 Put it on FB and let the Exec know to inform members by email.
@@ -25,6 +25,7 @@ Occasionally the Embassy informs us of events.
 
 ### 2024
 
+- Dec 7: Annual Christmas Dinner, Restaurant [Ochsen](https://www.ochsen-muensingen.ch) Münsingen
 - October 27: Pancake brunch
 - August 11: Summer BBQ in Münsingen
 - June 30: Canada day picnic in Kirchberg

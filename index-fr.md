@@ -12,4 +12,4 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
-- 7 décembre : Dîner de Noël annuel, Restaurant [Ochsen](https://www.ochsen-muensingen.ch) Münsingen
+- 14 janvier: assemblée générale annuelle, The Museum of Contemporary Circumpolar Art @ 16h00
