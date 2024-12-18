@@ -15,6 +15,7 @@ You can also find information about upcoming events on our [Facebook group page]
 ## Upcoming events for 2025
 
 - January 12: Annual General Meeting, The Museum of Contemporary Circumpolar Art @ 16h00
+- January 22: [Teatrolyssimo](https://www.teatrolyssimo.ch) play “Nicht nur zur Weihnachtszeit” in Swiss-German at 20h00
 
 Activities can be added at any time if you have an idea. 
 Put it on FB and let the Exec know to inform members by email.

@@ -14,6 +14,7 @@ New members — temporary or long-term — are very welcome, so feel free to con
 # Next events
 
 - January 12: Annual General Meeting, The Museum of Contemporary Circumpolar Art @ 16h00
+- January 22: [Teatrolyssimo](https://www.teatrolyssimo.ch) play “Nicht nur zur Weihnachtszeit” in Swiss-German at 20h00
 
 # New to Bern?
 

@@ -13,3 +13,4 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 # Prochains Événements
 
 - 14 janvier: assemblée générale annuelle, The Museum of Contemporary Circumpolar Art @ 16h00
+- 22 janvier : [Teatrolyssimo](https://www.teatrolyssimo.ch) joue « Pas seulement au temps de Noël » en suisse-allemand à 20h00
