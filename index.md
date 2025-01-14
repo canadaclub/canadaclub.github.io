@@ -18,10 +18,4 @@ New members — temporary or long-term — are very welcome, so feel free to con
 - Febrary 16: Games night
 - February 20: Inuit throat singers concert at [MCCA](https://mcca.ch/en/https/-/www-mcca-ch/upcoming/index.php/)
 
-# New to Bern?
-
-Here's an interesting guide to Bern, created by students at the University of Bern. It can be useful for newcomers to the region as well as anyone looking to live more sustainably in and around Bern.
-
-Click [here](https://www.bne.unibe.ch/for_students/out_and_about_sustainably_in_bern/index_eng.html) to access the PDF
-
 
