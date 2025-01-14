@@ -13,8 +13,20 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir en 2025
 
-- 14 janvier: assemblée générale annuelle, [The Museum of Contemporary Circumpolar Art](https://mcca.ch) @ 16h00
-- 22 janvier : [Teatrolyssimo](https://www.teatrolyssimo.ch) joue « Pas seulement au temps de Noël » en suisse-allemand à 20h00
+- 22 janvier : [Teatrolyssimo](https://www.teatrolyssimo.ch) pièce de théâtre « Nicht nur zur Weihnachtszeit » en suisse-allemand à 20h00
+- 4 février : Déjeuner chez [Cavallo Star](https://www.cavallostar.ch)
+- 16 février : Soirée jeux
+- 20 février : Concert de chanteurs de gorge inuits au [MCCA](https://mcca.ch/en/https/-/www-mcca-ch/upcoming/index.php/)
+- Février/Mars à déterminer : Raquettes à Stockhorn ou Kiental
+- 20 mars : dîner au Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen)
+- 11 avril : [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
+- Fin avril/début mai à confirmer : Pièce de théâtre [Dr Jekyll et Mr Hyde](https://upstage.ch/2024/10/28/spring-production-details/) au [Théâtre Remise](https://www.theaterremisebern.ch/index.php)
+- Mai à confirmer : Randonnée
+- 29 juin : Pique-nique de la fête du Canada au Kirchberg
+- 17 août : barbecue à Münsingen
+- 26 octobre : Petit-déjeuner aux crêpes
+- Novembre (à déterminer) : Pièce de théâtre Upstage
+- 13 décembre (à déterminer) : Dîner de Noël, [Restaurant Ochsen] (https://www.ochsen-muensingen.ch), Münsingen
 
 Des activités peuvent être ajoutées à tout moment si vous avez une idée. Mettez-la sur FB et faites-le savoir à l'exécutif pour informer les membres par e-mail.
 Parfois, l'ambassade a des événements dont elle nous informe.
@@ -22,6 +34,10 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 ---
 
 ## Événements passés
+
+### 2025
+
+- 12 janvier : Assemblée générale annuelle, [MCCA](https://mcca.ch) @ 16h00
 
 ### 2024
 

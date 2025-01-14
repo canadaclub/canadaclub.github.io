@@ -13,8 +13,10 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- January 12: Annual General Meeting, [The Museum of Contemporary Circumpolar Art](https://mcca.ch) @ 16h00
 - January 22: [Teatrolyssimo](https://www.teatrolyssimo.ch) play “Nicht nur zur Weihnachtszeit” in Swiss-German at 20h00
+- February 4: Lunch at [Cavallo Star](https://www.cavallostar.ch)
+- Febrary 16: Games night
+- February 20: Inuit throat singers concert at [MCCA](https://mcca.ch/en/https/-/www-mcca-ch/upcoming/index.php/)
 
 # New to Bern?
 

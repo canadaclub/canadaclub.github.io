@@ -12,5 +12,7 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
-- 14 janvier: assemblée générale annuelle, [The Museum of Contemporary Circumpolar Art](https://mcca.ch) @ 16h00
-- 22 janvier : [Teatrolyssimo](https://www.teatrolyssimo.ch) joue « Pas seulement au temps de Noël » en suisse-allemand à 20h00
+- 22 janvier : [Teatrolyssimo](https://www.teatrolyssimo.ch) pièce de théâtre « Nicht nur zur Weihnachtszeit » en suisse-allemand à 20h00
+- 4 février : Déjeuner chez [Cavallo Star](https://www.cavallostar.ch)
+- 16 février : Soirée jeux
+- 20 février : Concert de chanteurs de gorge inuits au [MCCA](https://mcca.ch/en/https/-/www-mcca-ch/upcoming/index.php/)

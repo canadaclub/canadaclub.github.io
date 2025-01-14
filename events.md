@@ -14,8 +14,20 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2025
 
-- January 12: Annual General Meeting, [The Museum of Contemporary Circumpolar Art](https://mcca.ch) @ 16h00
 - January 22: [Teatrolyssimo](https://www.teatrolyssimo.ch) play “Nicht nur zur Weihnachtszeit” in Swiss-German at 20h00
+- February 4: Lunch at [Cavallo Star](https://www.cavallostar.ch)
+- Febrary 16: Games night
+- February 20: Inuit throat singers concert at [MCCA](https://mcca.ch/en/https/-/www-mcca-ch/upcoming/index.php/)
+- February/March TBD: Snowshoeing at Stockhorn or Kiental
+- March 20: Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen) dinner
+- April 11: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
+- End April/early May TBD: Upstage play [Dr Jekyll and Mr. Hyde](https://upstage.ch/2024/10/28/spring-production-details/) at the [Theatre Remise](https://www.theaterremisebern.ch/index.php)
+- May TBD: Hike
+- June 29: Canada Day picnic in Kirchberg
+- August 17: BBQ in Münsingen
+- October 26: Pancake breakfast
+- November TBD: Upstage play
+- December 13 (TBD): Christmas dinner, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
 
 Activities can be added at any time if you have an idea. 
 Put it on FB and let the Exec know to inform members by email.
@@ -23,6 +35,10 @@ Occasionally the Embassy informs us of events.
 
 ---
 ## Past events
+
+### 2025
+
+- January 12: Annual General Meeting, [The Museum of Contemporary Circumpolar Art](https://mcca.ch) @ 16h00
 
 ### 2024
 
