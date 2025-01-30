@@ -13,5 +13,6 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 # Prochains Événements
 
 - 4 février : Déjeuner chez [Cavallo Star](https://www.cavallostar.ch)
+- 15/21 février, 1/2 mars (TBD) : Raquettes à neige
 - 16 février : Soirée jeux
 - 20 février : Concert de chanteurs de gorge inuits au [MCCA](https://mcca.ch/en/https/-/www-mcca-ch/upcoming/index.php/)

@@ -14,6 +14,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 ## Événements à venir en 2025
 
 - 4 février : Déjeuner chez [Cavallo Star](https://www.cavallostar.ch)
+- 15/21 février, 1/2 mars (TBD) : Raquettes à neige
 - 16 février : Soirée jeux
 - 20 février : Concert de chanteurs de gorge inuits au [MCCA](https://mcca.ch/en/https/-/www-mcca-ch/upcoming/index.php/)
 - Février/Mars à déterminer : Raquettes à Stockhorn ou Kiental
@@ -25,7 +26,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 - 17 août : barbecue à Münsingen
 - 26 octobre : Petit-déjeuner aux crêpes
 - Novembre (à déterminer) : Pièce de théâtre Upstage
-- 13 décembre (à déterminer) : Dîner de Noël, [Restaurant Ochsen] (https://www.ochsen-muensingen.ch), Münsingen
+- 13 décembre : Dîner de Noël, [Restaurant Ochsen] (https://www.ochsen-muensingen.ch), Münsingen
 
 Des activités peuvent être ajoutées à tout moment si vous avez une idée. Mettez-la sur FB et faites-le savoir à l'exécutif pour informer les membres par e-mail.
 Parfois, l'ambassade a des événements dont elle nous informe.

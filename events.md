@@ -15,6 +15,7 @@ You can also find information about upcoming events on our [Facebook group page]
 ## Upcoming events for 2025
 
 - February 4: Lunch at [Cavallo Star](https://www.cavallostar.ch)
+- February 15/21, March 1/2 (TBD): Snowshoeing
 - Febrary 16: Games night
 - February 20: Inuit throat singers concert at [MCCA](https://mcca.ch/en/https/-/www-mcca-ch/upcoming/index.php/)
 - February/March TBD: Snowshoeing at Stockhorn or Kiental
@@ -26,7 +27,7 @@ You can also find information about upcoming events on our [Facebook group page]
 - August 17: BBQ in Münsingen
 - October 26: Pancake breakfast
 - November TBD: Upstage play
-- December 13 (TBD): Christmas dinner, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
+- December 13: Christmas dinner, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
 
 Activities can be added at any time if you have an idea. 
 Put it on FB and let the Exec know to inform members by email.
