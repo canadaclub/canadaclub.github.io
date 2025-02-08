@@ -14,7 +14,6 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2025
 
-- February 4: Lunch at [Cavallo Star](https://www.cavallostar.ch)
 - February 15/21, March 1/2 (TBD): Snowshoeing
 - Febrary 16: Games night
 - February 20: Inuit throat singers concert at [MCCA](https://mcca.ch/en/https/-/www-mcca-ch/upcoming/index.php/)
@@ -38,6 +37,7 @@ Occasionally the Embassy informs us of events.
 
 ### 2025
 
+- February 4: Lunch at [Cavallo Star](https://www.cavallostar.ch)
 - January 22: [Teatrolyssimo](https://www.teatrolyssimo.ch) play “Nicht nur zur Weihnachtszeit” in Swiss-German at 20h00
 - January 12: Annual General Meeting, [The Museum of Contemporary Circumpolar Art](https://mcca.ch) @ 16h00
 

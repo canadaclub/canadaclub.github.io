@@ -13,7 +13,6 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir en 2025
 
-- 4 février : Déjeuner chez [Cavallo Star](https://www.cavallostar.ch)
 - 15/21 février, 1/2 mars (TBD) : Raquettes à neige
 - 16 février : Soirée jeux
 - 20 février : Concert de chanteurs de gorge inuits au [MCCA](https://mcca.ch/en/https/-/www-mcca-ch/upcoming/index.php/)
@@ -37,6 +36,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ### 2025
 
+- 4 février : Déjeuner chez [Cavallo Star](https://www.cavallostar.ch)
 - 22 janvier : [Teatrolyssimo](https://www.teatrolyssimo.ch) pièce de théâtre « Nicht nur zur Weihnachtszeit » en suisse-allemand à 20h00
 - 12 janvier : Assemblée générale annuelle, [MCCA](https://mcca.ch) @ 16h00
 

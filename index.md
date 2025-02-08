@@ -13,7 +13,6 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- February 4: Lunch at [Cavallo Star](https://www.cavallostar.ch)
 - February 15/21, March 1/2 (TBD): Snowshoeing
 - Febrary 16: Games night
 - February 20: Inuit throat singers concert at [MCCA](https://mcca.ch/en/https/-/www-mcca-ch/upcoming/index.php/)
