@@ -12,6 +12,6 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
-- 20 mars : dîner au Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen)
 - 11 avril : [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
-- Fin avril/début mai à confirmer : Pièce de théâtre [Dr Jekyll et Mr Hyde](https://upstage.ch/2024/10/28/spring-production-details/) au [Théâtre Remise](https://www.theaterremisebern.ch/index.php)
+- 24 avril : Déjeuner chez [Cavallo Star](https://www.cavallostar.ch)
+- 4 mai : Pièce de théâtre [Dr Jekyll et Mr Hyde](https://upstage.ch/2024/10/28/spring-production-details/) au [Théâtre Remise](https://www.theaterremisebern.ch/index.php)
