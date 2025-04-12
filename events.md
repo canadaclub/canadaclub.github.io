@@ -14,7 +14,6 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2025
 
-- April 11: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 - April 24: Lunch at [Cavallo Star](https://www.cavallostar.ch)
 - May 4: Upstage play [Dr Jekyll and Mr. Hyde](https://upstage.ch/2024/10/28/spring-production-details/) at the [Theatre Remise](https://www.theaterremisebern.ch/index.php)
 - May TBD: Hike
@@ -33,6 +32,7 @@ Occasionally the Embassy informs us of events.
 
 ### 2025
 
+- April 11: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 - March 20: Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen) dinner
 - February 20: Inuit throat singers concert at [MCCA](https://mcca.ch/en/https/-/www-mcca-ch/upcoming/index.php/)
 - Febrary 16: Games night

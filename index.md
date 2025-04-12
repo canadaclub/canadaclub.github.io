@@ -13,6 +13,5 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- April 11: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 - April 24: Lunch at [Cavallo Star](https://www.cavallostar.ch)
 - May 4: Upstage play [Dr Jekyll and Mr. Hyde](https://upstage.ch/2024/10/28/spring-production-details/) at the [Theatre Remise](https://www.theaterremisebern.ch/index.php)
