@@ -16,7 +16,7 @@ You can also find information about upcoming events on our [Facebook group page]
 
 - May 4: Upstage play [Dr Jekyll and Mr. Hyde](https://upstage.ch/2024/10/28/spring-production-details/) at the [Theatre Remise](https://www.theaterremisebern.ch/index.php)
 - May TBD: Hike
-- June 29: Canada Day picnic in Kirchberg
+- June 22: Canada Day picnic in Kirchberg
 - August 17: BBQ in Münsingen
 - October 26: Pancake breakfast
 - November TBD: Upstage play

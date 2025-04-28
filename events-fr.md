@@ -15,7 +15,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 - 4 mai : Pièce de théâtre [Dr Jekyll et Mr Hyde](https://upstage.ch/2024/10/28/spring-production-details/) au [Théâtre Remise](https://www.theaterremisebern.ch/index.php)
 - Mai à confirmer : Randonnée
-- 29 juin : Pique-nique de la fête du Canada au Kirchberg
+- 22 juin : Pique-nique de la fête du Canada au Kirchberg
 - 17 août : barbecue à Münsingen
 - 26 octobre : Petit-déjeuner aux crêpes
 - Novembre (à déterminer) : Pièce de théâtre Upstage
