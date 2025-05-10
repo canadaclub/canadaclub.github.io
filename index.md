@@ -13,7 +13,5 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- May 4: Upstage play [Dr Jekyll and Mr. Hyde](https://upstage.ch/2024/10/28/spring-production-details/) at the [Theatre Remise](https://www.theaterremisebern.ch/index.php)
-- May TBD: Hike
 - June 22: Canada Day picnic in Kirchberg
 - August 17: BBQ in Münsingen
