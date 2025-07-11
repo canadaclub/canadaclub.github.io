@@ -12,5 +12,8 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
-- 22 juin : Pique-nique de la fête du Canada au Kirchberg
 - 17 août : barbecue à Münsingen
+- 26 octobre : Petit-déjeuner aux crêpes
+- Novembre (à déterminer) : Pièce de théâtre Upstage
+- 13 décembre : Dîner de Noël, [Restaurant Ochsen] (https://www.ochsen-muensingen.ch), Münsingen
+
