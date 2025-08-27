@@ -13,7 +13,6 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir en 2025
 
-- 17 août : barbecue à Münsingen
 - 26 octobre : Petit-déjeuner aux crêpes
 - Novembre (à déterminer) : Pièce de théâtre Upstage
 - 13 décembre : Dîner de Noël, [Restaurant Ochsen] (https://www.ochsen-muensingen.ch), Münsingen
@@ -27,6 +26,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ### 2025
 
+- 17 août : barbecue à Münsingen
 - 22 juin : Pique-nique de la fête du Canada au Kirchberg
 - 4 mai : Pièce de théâtre [Dr Jekyll et Mr Hyde](https://upstage.ch/2024/10/28/spring-production-details/) au [Théâtre Remise](https://www.theaterremisebern.ch/index.php)
 - 11 avril : [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)

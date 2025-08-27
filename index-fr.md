@@ -12,7 +12,6 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
-- 17 août : barbecue à Münsingen
 - 26 octobre : Petit-déjeuner aux crêpes
 - Novembre (à déterminer) : Pièce de théâtre Upstage
 - 13 décembre : Dîner de Noël, [Restaurant Ochsen] (https://www.ochsen-muensingen.ch), Münsingen

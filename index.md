@@ -13,7 +13,6 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- August 17: BBQ in Münsingen
 - October 26: Pancake breakfast
 - November TBD: Upstage play
 - December 13: Christmas dinner, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
