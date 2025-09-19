@@ -14,8 +14,8 @@ Vous pouvez également trouver des informations sur les événements à venir su
 ## Événements à venir en 2025
 
 - 26 octobre : Petit-déjeuner aux crêpes
-- Novembre (à déterminer) : Pièce de théâtre Upstage
-- 13 décembre : Dîner de Noël, [Restaurant Ochsen] (https://www.ochsen-muensingen.ch), Münsingen
+- 30 novembre : pièce de théâtre Upstage et dîner -- [Dr Frankenstein](https://upstage.ch/2025/06/30/november-2025-production/)
+- 13 décembre : Dîner de Noël, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
 
 Des activités peuvent être ajoutées à tout moment si vous avez une idée. Mettez-la sur FB et faites-le savoir à l'exécutif pour informer les membres par e-mail.
 Parfois, l'ambassade a des événements dont elle nous informe.

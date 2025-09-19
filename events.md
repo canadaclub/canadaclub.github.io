@@ -15,7 +15,7 @@ You can also find information about upcoming events on our [Facebook group page]
 ## Upcoming events for 2025
 
 - October 26: Pancake breakfast
-- November TBD: Upstage play
+- November 30: Upstage play and dinner -- [Dr. Frankenstein](https://upstage.ch/2025/06/30/november-2025-production/)
 - December 13: Christmas dinner, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
 
 Activities can be added at any time if you have an idea. 
