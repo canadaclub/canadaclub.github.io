@@ -14,7 +14,6 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2025
 
-- October 26: Pancake breakfast
 - November 30: Upstage play and dinner -- [Dr. Frankenstein](https://upstage.ch/2025/06/30/november-2025-production/)
 - December 13: Christmas dinner, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
 
@@ -27,6 +26,7 @@ Occasionally the Embassy informs us of events.
 
 ### 2025
 
+- October 26: Pancake breakfast
 - August 17: BBQ in Münsingen
 - June 22: Canada Day picnic in Kirchberg
 - May 4: Upstage play [Dr Jekyll and Mr. Hyde](https://upstage.ch/2024/10/28/spring-production-details/) at the [Theatre Remise](https://www.theaterremisebern.ch/index.php)

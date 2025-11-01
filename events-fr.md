@@ -13,7 +13,6 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir en 2025
 
-- 26 octobre : Petit-déjeuner aux crêpes
 - 30 novembre : pièce de théâtre Upstage et dîner -- [Dr Frankenstein](https://upstage.ch/2025/06/30/november-2025-production/)
 - 13 décembre : Dîner de Noël, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
 
@@ -26,6 +25,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ### 2025
 
+- 26 octobre : Petit-déjeuner aux crêpes
 - 17 août : barbecue à Münsingen
 - 22 juin : Pique-nique de la fête du Canada au Kirchberg
 - 4 mai : Pièce de théâtre [Dr Jekyll et Mr Hyde](https://upstage.ch/2024/10/28/spring-production-details/) au [Théâtre Remise](https://www.theaterremisebern.ch/index.php)
