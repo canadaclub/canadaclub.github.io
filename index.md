@@ -13,6 +13,5 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- November 30: Upstage play and dinner -- [Dr. Frankenstein](https://upstage.ch/2025/06/30/november-2025-production/)
 - December 13: Christmas dinner, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
 
