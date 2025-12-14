@@ -13,5 +13,5 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- December 13: Christmas dinner, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
+TBD
 
