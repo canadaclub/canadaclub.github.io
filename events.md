@@ -14,7 +14,7 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2026
 
-TBD
+- January 25: Annual General Meeting, [The Museum of Contemporary Circumpolar Art](https://mcca.ch) @ 16h00
 
 Activities can be added at any time if you have an idea. 
 Put it on FB and let the Exec know to inform members by email.
@@ -22,6 +22,10 @@ Occasionally the Embassy informs us of events.
 
 ---
 ## Past events
+
+### 2026
+
+- January 16: [Teatrolyssimo](https://www.teatrolyssimo.ch) play “Rollator online” in Swiss-German at 20h00
 
 ### 2025
 

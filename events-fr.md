@@ -13,7 +13,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir en 2026
 
-à déterminer.
+- 25 janvier : Assemblée générale annuelle, [MCCA](https://mcca.ch) @ 16h00
 
 Des activités peuvent être ajoutées à tout moment si vous avez une idée. Mettez-la sur FB et faites-le savoir à l'exécutif pour informer les membres par e-mail.
 Parfois, l'ambassade a des événements dont elle nous informe.
@@ -21,6 +21,10 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 ---
 
 ## Événements passés
+
+### 2026
+
+- 16 janvier : [Teatrolyssimo](https://www.teatrolyssimo.ch) pièce de théâtre « Rollator online » en suisse-allemand à 20h00
 
 ### 2025
 

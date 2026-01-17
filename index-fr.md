@@ -12,4 +12,4 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
-à déterminer.
+- 25 janvier : Assemblée générale annuelle, [MCCA](https://mcca.ch) @ 16h00

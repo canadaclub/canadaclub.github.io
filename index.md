@@ -13,5 +13,5 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-TBD
+- January 25: Annual General Meeting, [The Museum of Contemporary Circumpolar Art](https://mcca.ch) @ 16h00
 
