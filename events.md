@@ -23,7 +23,7 @@ You can also find information about upcoming events on our [Facebook group page]
 - July 5: Canada Day picnic in Kirchberg
 - Aug 16: BBQ in Münsingen
 - Oct TBD: Pancake breakfast
-- Nov TBD: Upstage play and dinner TBA
+- Nov TBD: [Upstage](https://upstage.ch) play and dinner TBA
 - Dec 12: Christmas dinner, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
 
 Activities can be added at any time if you have an idea. 
@@ -41,11 +41,11 @@ Occasionally the Embassy informs us of events.
 ### 2025
 
 - December 13: Christmas dinner, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
-- November 30: Upstage play and dinner -- [Dr. Frankenstein](https://upstage.ch/2025/06/30/november-2025-production/)
+- November 30: [Upstage](https://upstage.ch) play and dinner -- [Dr. Frankenstein](https://upstage.ch/2025/06/30/november-2025-production/)
 - October 26: Pancake breakfast
 - August 17: BBQ in Münsingen
 - June 22: Canada Day picnic in Kirchberg
-- May 4: Upstage play [Dr Jekyll and Mr. Hyde](https://upstage.ch/2024/10/28/spring-production-details/) at the [Theatre Remise](https://www.theaterremisebern.ch/index.php)
+- May 4: [Upstage](https://upstage.ch) play [Dr Jekyll and Mr. Hyde](https://upstage.ch/2024/10/28/spring-production-details/) at the [Theatre Remise](https://www.theaterremisebern.ch/index.php)
 - April 11: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 - March 20: Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen) dinner
 - February 20: Inuit throat singers concert at [MCCA](https://mcca.ch/en/https/-/www-mcca-ch/upcoming/index.php/)
@@ -79,12 +79,12 @@ Occasionally the Embassy informs us of events.
 ### 2023
 
 - December 9: Annual Christmas Dinner, Restaurant Ochsen Münsingen
-- November 25: Upstage Performance of “The Island of Slaves” at the Käfigturm
+- November 25: [Upstage](https://upstage.ch) Performance of “The Island of Slaves” at the Käfigturm
 - November 23: Canada Club lunch at Beaulieu
 - October 22: Pancake brunch
 - August 26: Afternoon BBQ in Münsingen
 - July 2: Canada Day picnic
-- June 10: Upstage performance of "Lobby Hero" at the Remise (Laupenstrasse)
+- June 10: [Upstage](https://upstage.ch) performance of "Lobby Hero" at the Remise (Laupenstrasse)
 - April 1: Bowling evening at Mazili
 - March 7: Canada Weeks Dinner Get-together
 - February 20: Lunch at Beaulieu Restaurant
@@ -95,7 +95,7 @@ Occasionally the Embassy informs us of events.
 - December 10: Annual Christmas Dinner
 - October 23: Brunch
 - July 3: Canada Day Picnic
-- June 12: Upstage Theater performance Trap for a Lonely Man
+- June 12: [Upstage](https://upstage.ch) Theater performance Trap for a Lonely Man
 - May 26: Biking day
 - April 1: Bowling evening
 - March 27: Brunch Canada Week

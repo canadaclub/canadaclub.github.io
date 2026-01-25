@@ -22,7 +22,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 - 5 juillet : Pique-nique de la fête du Canada à Kirchberg
 - 16 août : Barbecue à Münsingen
 - Octobre à déterminer : Petit-déjeuner aux crêpes
-- Novembre à déterminer : Pièce de théâtre Upstage et dîner à déterminer
+- Novembre à déterminer : Pièce de théâtre [Upstage](https://upstage.ch) et dîner à déterminer
 - 12 décembre : Dîner de Noël, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
 
 Des activités peuvent être ajoutées à tout moment si vous avez une idée. Mettez-la sur FB et faites-le savoir à l'exécutif pour informer les membres par e-mail.
@@ -40,7 +40,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 ### 2025
 
 - 13 décembre : Dîner de Noël, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
-- 30 novembre : pièce de théâtre Upstage et dîner -- [Dr Frankenstein](https://upstage.ch/2025/06/30/november-2025-production/)
+- 30 novembre : pièce de théâtre [Upstage](https://upstage.ch) et dîner -- [Dr Frankenstein](https://upstage.ch/2025/06/30/november-2025-production/)
 - 26 octobre : Petit-déjeuner aux crêpes
 - 17 août : barbecue à Münsingen
 - 22 juin : Pique-nique de la fête du Canada au Kirchberg
@@ -61,7 +61,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 - 11 août : BBQ d'été à Münsingen
 - 30 juin : Pique-nique pour la fête du Canada à Kirchberg
 - 19 juin : Déjeuner au [Restaurant Beaulieu] (https://www.restaurantbeaulieu.ch)
-- 9 juin : [Upstage]() Soirée théâtre [Upstage](https://upstage.ch)
+- 9 juin : [Upstage](https://upstage.ch) Soirée théâtre
 - 9 mai : [Randonnée panoramique circulaire des Breuleux] (https://www.wanderungen.ch/de/touren/wanderungen/jura/Les%20Breuleux-Le%20Peuchapatte-Beau%20S%C3%A9jour.html?tour=2170)
 - 19 avril : Soirée jeux
 - 16 avril : Déjeuner à la [Casa D'Italia](https://www.casaitalia.ch)
@@ -78,12 +78,12 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 ### 2023
 
 - 9  décembre: Dîner de Noël
-- 25 novembre: performance Upstage Theatre “L'île des esclaves”
+- 25 novembre: performance [Upstage](https://upstage.ch) Theatre “L'île des esclaves”
 - 23 novembre: Déjeuner à Beaulieu
 - 22 octobre: Brunch pour les membres
 - 26 août: BBQ d'été
 - 2 juillet: pique-nique Canada Day
-- 10 juin: 17:00 soirée théâtre Upstage, "Lobby Hero", Theater Remise
+- 10 juin: 17:00 soirée théâtre [Upstage](https://upstage.ch), "Lobby Hero", Theater Remise
 - 1 avril: soirée quilles à 19:00
 - 7 mars: Dîner pendant les Semaines Canadiennes à partir de 18:00
 - 20 février: Déjeuner au restaurant Beaulieu
@@ -94,7 +94,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 - 10 décembre: dîner annuel de Noêl
 - 23 octobre: brunch
 - 3 juillet: pique-nique Canada Day
-- 12 juin: performance Upstage Theatre, date à communiquer
+- 12 juin: performance [Upstage](https://upstage.ch) Theatre, date à communiquer
 - 26 mai: randonnée en vélo
 - 1 avril: soirée bowling
 - 27 mars: brunch Semaines Canada
