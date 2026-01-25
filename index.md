@@ -19,4 +19,4 @@ New members — temporary or long-term — are very welcome, so feel free to con
 - March 28: Games night
 - April TBD: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 
-See also the [events](/events page).
+See also the [events page](/events).
