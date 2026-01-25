@@ -18,4 +18,4 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 - 28 mars : Soirée jeux
 - Avril à déterminer : [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 
-Voir également la page [événements](/events-fr)
+Voir également la page d'[événements](/events-fr).
