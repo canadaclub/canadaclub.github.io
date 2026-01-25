@@ -13,7 +13,17 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir en 2026
 
-- 25 janvier : Assemblée générale annuelle, [MCCA](https://mcca.ch) @ 16h00
+- 2 février : Déjeuner au [Restaurant Beaulieu](https://www.restaurantbeaulieu.ch)
+- 7, 8 ou 22 février : Raquette (date à confirmer en fonction des conditions météorologiques)
+- 12 mars : Dîner au Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen)
+- 28 mars : Soirée jeux
+- Avril à déterminer : [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
+- 9 mai : Promenade le long de l'Aar
+- 5 juillet : Pique-nique de la fête du Canada à Kirchberg
+- 16 août : Barbecue à Münsingen
+- Octobre à déterminer : Petit-déjeuner aux crêpes
+- Novembre à déterminer : Pièce de théâtre Upstage et dîner à déterminer
+- 12 décembre : Dîner de Noël, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
 
 Des activités peuvent être ajoutées à tout moment si vous avez une idée. Mettez-la sur FB et faites-le savoir à l'exécutif pour informer les membres par e-mail.
 Parfois, l'ambassade a des événements dont elle nous informe.
@@ -24,6 +34,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ### 2026
 
+- 25 janvier : Assemblée générale annuelle, [Musée d'art contemporain circumpolaire](https://mcca.ch) à 16 h
 - 16 janvier : [Teatrolyssimo](https://www.teatrolyssimo.ch) pièce de théâtre « Rollator online » en suisse-allemand à 20h00
 
 ### 2025

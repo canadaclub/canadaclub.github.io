@@ -13,5 +13,10 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- January 25: Annual General Meeting, [The Museum of Contemporary Circumpolar Art](https://mcca.ch) @ 16h00
+- February 2: Lunch at [Restaurant Beaulieu](https://www.restaurantbeaulieu.ch)
+- February 7, 8, or 22: Snowshoeing (date TBA depending on conditions)
+- March 12: Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen) dinner
+- March 28: Games night
+- April TBD: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 
+See also the [/events] page.
