@@ -16,6 +16,6 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 - 7, 8 ou 22 février : Raquette (date à confirmer en fonction des conditions météorologiques)
 - 12 mars : Dîner au Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen)
 - 28 mars : Soirée jeux
-- Avril à déterminer : [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
+- 17 ou 24 Avril : [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 
 Voir également la page d'[événements](/events-fr).

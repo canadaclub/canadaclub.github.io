@@ -18,11 +18,11 @@ You can also find information about upcoming events on our [Facebook group page]
 - February 7, 8, or 22: Snowshoeing (date TBA depending on conditions)
 - March 12: Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen) dinner
 - March 28: Games night
-- April TBD: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
+- April 17/24: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 - May 9: Aare walk
 - July 5: Canada Day picnic in Kirchberg
 - Aug 16: BBQ in Münsingen
-- Oct TBD: Pancake breakfast
+- Oct 25: Pancake breakfast
 - Nov TBD: [Upstage](https://upstage.ch) play and dinner TBA
 - Dec 12: Christmas dinner, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
 

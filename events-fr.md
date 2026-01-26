@@ -17,11 +17,11 @@ Vous pouvez également trouver des informations sur les événements à venir su
 - 7, 8 ou 22 février : Raquette (date à confirmer en fonction des conditions météorologiques)
 - 12 mars : Dîner au Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen)
 - 28 mars : Soirée jeux
-- Avril à déterminer : [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
+- 17 ou 24 Avril : [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 - 9 mai : Promenade le long de l'Aar
 - 5 juillet : Pique-nique de la fête du Canada à Kirchberg
 - 16 août : Barbecue à Münsingen
-- Octobre à déterminer : Petit-déjeuner aux crêpes
+- 25 Octobre : Petit-déjeuner aux crêpes
 - Novembre à déterminer : Pièce de théâtre [Upstage](https://upstage.ch) et dîner à déterminer
 - 12 décembre : Dîner de Noël, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
 
