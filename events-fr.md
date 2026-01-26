@@ -22,7 +22,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 - 5 juillet : Pique-nique de la fête du Canada à Kirchberg
 - 16 août : Barbecue à Münsingen
 - 25 Octobre : Petit-déjeuner aux crêpes
-- Novembre à déterminer : Pièce de théâtre [Upstage](https://upstage.ch) et dîner à déterminer
+- 26 Novembre : Pièce de théâtre [Upstage](https://upstage.ch) et dîner à déterminer
 - 12 décembre : Dîner de Noël, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
 
 Des activités peuvent être ajoutées à tout moment si vous avez une idée. Mettez-la sur FB et faites-le savoir à l'exécutif pour informer les membres par e-mail.
