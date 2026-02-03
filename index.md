@@ -13,10 +13,15 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- February 2: Lunch at [Restaurant Beaulieu](https://www.restaurantbeaulieu.ch)
 - February 7, 8, or 22: Snowshoeing (date TBA depending on conditions)
 - March 12: Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen) dinner
 - March 28: Games night
 - April 17/24: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
+- May 9: Aare walk
+- July 5: Canada Day picnic in Kirchberg
+- Aug 16: BBQ in Münsingen
+- Oct 25: Pancake breakfast
+- Nov 26: [Upstage](https://upstage.ch) play and dinner TBA
+- Dec 12: Christmas dinner, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
 
 See also the [events page](/events).

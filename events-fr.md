@@ -13,7 +13,6 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir en 2026
 
-- 2 février : Déjeuner au [Restaurant Beaulieu](https://www.restaurantbeaulieu.ch)
 - 7, 8 ou 22 février : Raquette (date à confirmer en fonction des conditions météorologiques)
 - 12 mars : Dîner au Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen)
 - 28 mars : Soirée jeux
@@ -34,6 +33,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ### 2026
 
+- 2 février : Déjeuner au [Restaurant Beaulieu](https://www.restaurantbeaulieu.ch)
 - 25 janvier : Assemblée générale annuelle, [Musée d'art contemporain circumpolaire](https://mcca.ch) à 16 h
 - 16 janvier : [Teatrolyssimo](https://www.teatrolyssimo.ch) pièce de théâtre « Rollator online » en suisse-allemand à 20h00
 

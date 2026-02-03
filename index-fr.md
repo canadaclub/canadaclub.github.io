@@ -12,10 +12,15 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
-- 2 février : Déjeuner au [Restaurant Beaulieu](https://www.restaurantbeaulieu.ch)
 - 7, 8 ou 22 février : Raquette (date à confirmer en fonction des conditions météorologiques)
 - 12 mars : Dîner au Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen)
 - 28 mars : Soirée jeux
 - 17 ou 24 Avril : [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
+- 9 mai : Promenade le long de l'Aar
+- 5 juillet : Pique-nique de la fête du Canada à Kirchberg
+- 16 août : Barbecue à Münsingen
+- 25 Octobre : Petit-déjeuner aux crêpes
+- 26 Novembre : Pièce de théâtre [Upstage](https://upstage.ch) et dîner à déterminer
+- 12 décembre : Dîner de Noël, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
 
 Voir également la page d'[événements](/events-fr).
