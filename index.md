@@ -13,7 +13,7 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- February 7, 8, or 22: Snowshoeing (date TBA depending on conditions)
+- February 7: Snowshoeing in [Zweisimmen Sparenmoos](https://sparenmoos-aktiv.ch/winter/schneeschuhlaufen)
 - March 12: Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen) dinner
 - March 28: Games night
 - April 17/24: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
