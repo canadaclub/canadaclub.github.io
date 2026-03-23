@@ -13,7 +13,6 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir en 2026
 
-- 12 mars : Dîner au Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen)
 - 28 mars : Soirée jeux
 - 17 ou 24 Avril : [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 - 9 mai : Promenade le long de l'Aar
@@ -32,6 +31,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ### 2026
 
+- 12 mars : Dîner au Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen)
 - 7 février : randonnée en raquettes à [Zweisimmen Sparenmoos](https://sparenmoos-aktiv.ch/winter/schneeschuhlaufen)
 - 2 février : Déjeuner au [Restaurant Beaulieu](https://www.restaurantbeaulieu.ch)
 - 25 janvier : Assemblée générale annuelle, [Musée d'art contemporain circumpolaire](https://mcca.ch) à 16 h

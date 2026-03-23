@@ -14,7 +14,6 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2026
 
-- March 12: Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen) dinner
 - March 28: Games night
 - April 17/24: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 - May 9: Aare walk
@@ -33,6 +32,7 @@ Occasionally the Embassy informs us of events.
 
 ### 2026
 
+- March 12: Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen) dinner
 - February 7: Snowshoeing in [Zweisimmen Sparenmoos](https://sparenmoos-aktiv.ch/winter/schneeschuhlaufen)
 - February 2: Lunch at [Restaurant Beaulieu](https://www.restaurantbeaulieu.ch)
 - January 25: Annual General Meeting, [The Museum of Contemporary Circumpolar Art](https://mcca.ch) @ 16h00
