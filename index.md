@@ -13,7 +13,6 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- March 28: Games night
 - April 17/24: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 - May 9: Aare walk
 - July 5: Canada Day picnic in Kirchberg
