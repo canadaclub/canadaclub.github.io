@@ -14,7 +14,7 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2026
 
-- April 17/24: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
+- April 24: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 - May 9: Aare walk
 - July 5: Canada Day picnic in Kirchberg
 - Aug 16: BBQ in Münsingen

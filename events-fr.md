@@ -13,7 +13,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir en 2026
 
-- 17 ou 24 Avril : [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
+- 24 Avril : [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 - 9 mai : Promenade le long de l'Aar
 - 5 juillet : Pique-nique de la fête du Canada à Kirchberg
 - 16 août : Barbecue à Münsingen
