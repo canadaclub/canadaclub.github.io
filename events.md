@@ -14,7 +14,6 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2026
 
-- April 24: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 - May 9: Aare walk
 - July 5: Canada Day picnic in Kirchberg
 - Aug 16: BBQ in Münsingen
@@ -31,6 +30,7 @@ Occasionally the Embassy informs us of events.
 
 ### 2026
 
+- April 24: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 - March 28: Games night
 - March 12: Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen) dinner
 - February 7: Snowshoeing in [Zweisimmen Sparenmoos](https://sparenmoos-aktiv.ch/winter/schneeschuhlaufen)

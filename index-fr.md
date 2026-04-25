@@ -12,7 +12,6 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
-- 24 Avril : [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 - 9 mai : Promenade le long de l'Aar
 - 5 juillet : Pique-nique de la fête du Canada à Kirchberg
 - 16 août : Barbecue à Münsingen

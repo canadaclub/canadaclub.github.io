@@ -13,7 +13,6 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- April 24: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 - May 9: Aare walk
 - July 5: Canada Day picnic in Kirchberg
 - Aug 16: BBQ in Münsingen
