@@ -12,7 +12,6 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
-- 9 mai : Promenade le long de l'Aar
 - 5 juillet : Pique-nique de la fête du Canada à Kirchberg
 - 16 août : Barbecue à Münsingen
 - 25 Octobre : Petit-déjeuner aux crêpes

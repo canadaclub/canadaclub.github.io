@@ -13,7 +13,6 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir en 2026
 
-- 9 mai : Promenade le long de l'Aar
 - 5 juillet : Pique-nique de la fête du Canada à Kirchberg
 - 16 août : Barbecue à Münsingen
 - 25 Octobre : Petit-déjeuner aux crêpes
@@ -29,6 +28,7 @@ Parfois, l'ambassade a des événements dont elle nous informe.
 
 ### 2026
 
+- 9 mai : Promenade le long de l'Aare
 - 24 Avril : [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
 - 28 mars : Soirée jeux
 - 12 mars : Dîner au Tramdepot [Canada Weeks](https://altestramdepot.ch/de/Info/Restaurant/Kanada_Wochen)
