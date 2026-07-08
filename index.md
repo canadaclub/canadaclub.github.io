@@ -13,7 +13,6 @@ New members — temporary or long-term — are very welcome, so feel free to con
 
 # Next events
 
-- July 5: Canada Day picnic in Kirchberg
 - Aug 16: BBQ in Münsingen
 - Oct 25: Pancake breakfast
 - Nov 26: [Upstage](https://upstage.ch) play and dinner TBA
