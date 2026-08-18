@@ -14,7 +14,7 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2026
 
-- Aug 16: BBQ in Münsingen
+- Sep 6: BBQ in Münsingen
 - Oct 25: Pancake breakfast
 - Nov 26: [Upstage](https://upstage.ch) play and dinner TBA
 - Dec 12: Christmas dinner, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen

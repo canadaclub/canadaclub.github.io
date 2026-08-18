@@ -13,7 +13,7 @@ Vous pouvez également trouver des informations sur les événements à venir su
 
 ## Événements à venir en 2026
 
-- 16 août : Barbecue à Münsingen
+- 6 septembre : Barbecue à Münsingen
 - 25 Octobre : Petit-déjeuner aux crêpes
 - 26 Novembre : Pièce de théâtre [Upstage](https://upstage.ch) et dîner à déterminer
 - 12 décembre : Dîner de Noël, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
