@@ -14,9 +14,8 @@ You can also find information about upcoming events on our [Facebook group page]
 
 ## Upcoming events for 2026
 
-- Sep 6: BBQ in Münsingen
 - Oct 25: Pancake breakfast
-- Nov 26: [Upstage](https://upstage.ch) play and dinner TBA
+- Nov 29: [Upstage](https://upstage.ch) play and dinner TBA
 - Dec 12: Christmas dinner, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
 
 Activities can be added at any time if you have an idea. 
@@ -28,6 +27,7 @@ Occasionally the Embassy informs us of events.
 
 ### 2026
 
+- Sep 6: BBQ in Münsingen
 - July 5: Canada Day picnic in Kirchberg
 - May 9: Aare walk
 - April 24: [Marzili Bowling](https://www.bowling-marzili.ch/bm-english)
