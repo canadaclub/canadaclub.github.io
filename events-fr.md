@@ -11,11 +11,12 @@ Les membres sont libres d'inviter des amis et de la famille en visite en Suisse.
 
 Vous pouvez également trouver des informations sur les événements à venir sur notre [page de groupe Facebook](https://www.facebook.com/groups/canadaclubberne/).
 
-## Événements à venir en 2026
+## Événements à venir en 2026/27
 
 - 25 Octobre : Petit-déjeuner aux crêpes
 - 29 Novembre : Pièce de théâtre [Upstage](https://upstage.ch) et dîner à déterminer
 - 12 décembre : Dîner de Noël, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
+- 31 janvier : Assemblée générale annuelle, [Musée d'art contemporain circumpolaire](https://mcca.ch) à 16 h
 
 Des activités peuvent être ajoutées à tout moment si vous avez une idée. Mettez-la sur FB et faites-le savoir à l'exécutif pour informer les membres par e-mail.
 Parfois, l'ambassade a des événements dont elle nous informe.

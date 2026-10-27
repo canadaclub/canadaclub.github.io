@@ -16,5 +16,6 @@ New members — temporary or long-term — are very welcome, so feel free to con
 - Oct 25: Pancake breakfast
 - Nov 29: [Upstage](https://upstage.ch) play and dinner TBA
 - Dec 12: Christmas dinner, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
+- January 31: Annual General Meeting, [The Museum of Contemporary Circumpolar Art](https://mcca.ch) @ 16h00
 
 See also the [events page](/events).

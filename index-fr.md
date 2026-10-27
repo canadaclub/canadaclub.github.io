@@ -12,8 +12,9 @@ Les nouveaux membres - temporaires ou à long terme - sont les bienvenus, alors 
 
 # Prochains Événements
 
-- 25 Octobre : Petit-déjeuner aux crêpes
 - 29 Novembre : Pièce de théâtre [Upstage](https://upstage.ch) et dîner à déterminer
 - 12 décembre : Dîner de Noël, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
+- 31 janvier : Assemblée générale annuelle, [Musée d'art contemporain circumpolaire](https://mcca.ch) à 16 h
+
 
 Voir également la page d'[événements](/events-fr).

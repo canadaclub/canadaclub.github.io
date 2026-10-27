@@ -12,11 +12,12 @@ However, you will have to contact us at {{ site.mailto }} for the event details.
 
 You can also find information about upcoming events on our [Facebook group page](https://www.facebook.com/groups/canadaclubberne/).
 
-## Upcoming events for 2026
+## Upcoming events for 2026/27
 
 - Oct 25: Pancake breakfast
 - Nov 29: [Upstage](https://upstage.ch) play and dinner TBA
 - Dec 12: Christmas dinner, [Restaurant Ochsen](https://www.ochsen-muensingen.ch), Münsingen
+- January 31: Annual General Meeting, [The Museum of Contemporary Circumpolar Art](https://mcca.ch) @ 16h00
 
 Activities can be added at any time if you have an idea. 
 Put it on FB and let the Exec know to inform members by email.
